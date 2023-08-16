@@ -1,0 +1,4 @@
+name: sega
+channels:
+  - defaults
+prefix: /home/ikboljonsobirov/.conda/envs/sega

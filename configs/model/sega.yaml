@@ -1,0 +1,5 @@
+_target_: src.models.sega_module.SegaModule
+
+model: "segresnet"
+lr : 1e-3
+weight_decay: 1e-5
