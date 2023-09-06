@@ -8,7 +8,7 @@ import numpy as np
 import SimpleITK as sitk
 from einops import  rearrange
 import nibabel as nib
-
+import pickle
 
 def get_patient_files(path_to_imgs):
 
@@ -19,8 +19,8 @@ def get_patient_files(path_to_imgs):
     paths = []
 
     for p in patients:
-        path_to_ct = path_to_imgs / p / (p + '_ct.nii.gz')
-        path_to_gt = path_to_imgs / p / (p + '_gt.nii.gz')
+        path_to_ct = path_to_imgs / p / (p + '_ct.pt')
+        path_to_gt = path_to_imgs / p / (p + '_gt.pt')
 
         paths.append((path_to_ct, path_to_gt))
     return paths
@@ -42,16 +42,16 @@ class SegaDataset(Dataset):
         id_ = self.paths[index][0].parent.stem
 
         sample['id']  = id_
-        img_data = self.read_nifti(self.paths[index][0])
+        img_data = self.read_torch_file(self.paths[index][0])
         # img_data = rearrange(img_data, 'h w d -> d w h')
         # img_data = sitk.GetArrayFromImage(img)
-        img_data = np.expand_dims(img_data, axis=3)
+        # img_data = np.expand_dims(img_data, axis=3)
         sample['input'] = img_data
 
-        mask_data = self.read_nifti(self.paths[index][-1])
+        mask_data = self.read_torch_file(self.paths[index][-1])
         # mask_data = rearrange(mask_data, 'h w d -> d w h')
         # mask_data = sitk.GetArrayFromImage(mask)
-        mask_data = np.expand_dims(mask_data, axis=3)
+        # mask_data = np.expand_dims(mask_data, axis=3)
 
         sample['target'] = mask_data
 
@@ -62,11 +62,23 @@ class SegaDataset(Dataset):
 
 
     @staticmethod
+    def read_torch_file(path):
+        img = torch.load(path)
+
+        return img
+
+    @staticmethod
     def read_nrrd_file(path):
         img = sitk.ReadImage(str(path), sitk.sitkFloat32)
 
         return img
         
+    @staticmethod
+    def read_pickle(path):
+        with open(path, 'rb') as f:
+            b = pickle.load(f)
+        return b
+
     @staticmethod
     def read_nifti(path_to_nifti, return_numpy=True):
         """Read a NIfTI image. Return a numpy array (default) or `nibabel.nifti1.Nifti1Image` object"""

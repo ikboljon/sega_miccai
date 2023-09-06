@@ -1,0 +1,4 @@
+name: pytorch
+channels:
+  - defaults
+prefix: /home/ikboljonsobirov/.conda/envs/pytorch

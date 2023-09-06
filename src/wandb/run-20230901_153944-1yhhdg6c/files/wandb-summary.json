@@ -1,0 +1,1 @@
+{"val/loss": 0.1381615400314331, "val/dice": 0.8359016180038452, "val/recall": 0.8013858795166016, "val/precision": 0.8795994520187378, "epoch": 99, "trainer/global_step": 2199, "_timestamp": 1693583349.1511726, "_runtime": 14964.695991754532, "_step": 199, "train/loss": 0.13107198476791382, "_wandb": {"runtime": 14954}}

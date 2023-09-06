@@ -149,6 +149,11 @@ configs/local/default.yaml
 /data/
 /logs/
 .env
+/src/wandb/
+/wandb/
+# notebooks/ask_python.npy
+# notebooks/test.pkl
+# notebooks/file_name.pickle
 
 # Aim logging
 .aim

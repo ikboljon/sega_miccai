@@ -6,7 +6,8 @@ import sys
 
 import torchio as tio 
 from skimage.transform import rotate
-
+import pathlib
+import os
 from monai.transforms.transform import Transform
 from monai.config.type_definitions import NdarrayOrTensor, NdarrayTensor
 from monai.utils.enums import TransformBackends
@@ -32,6 +33,54 @@ class Compose:
 
         return sample
 
+
+class LoadImagedMonai:
+    def __init__(self, keys=["image", "label"], ensure_channel_first = True):
+        self.keys=keys
+        self.chnl_first=ensure_channel_first
+        # self.path_to_data_dir=path_to_data_dir
+
+    def __call__(self, path_to_data_dir):
+        if path_to_data_dir is None:
+            print('Please provide directory to the data path')
+        else:
+            sample = dict()
+            # sample['id']  = 
+            # paths = self.get_patient_files(path_to_data_dir)
+            img_data = self.read_torch_file(path_to_data_dir[self.keys[0]]).float()
+            mask_data = self.read_torch_file(path_to_data_dir[self.keys[1]]).float()
+
+            sample['image'] = img_data
+            sample['label'] = mask_data
+            sample['id'] = path_to_data_dir['id'].split('/')[-1]
+            sample['fold'] = path_to_data_dir['fold']
+
+            return sample
+            # for p in paths:
+            #     img_data = self.read_torch_file(p)
+
+    
+    @staticmethod
+    def get_patient_files(path_to_imgs):
+
+        path_to_imgs = pathlib.Path(path_to_imgs)
+
+        patients = [p for p in os.listdir(path_to_imgs) if os.path.isdir(path_to_imgs / p)]
+
+        paths = []
+
+        for p in patients:
+            path_to_ct = path_to_imgs / p / (p + '_ct.pt')
+            path_to_gt = path_to_imgs / p / (p + '_gt.pt')
+
+            paths.append((path_to_ct, path_to_gt))
+        return paths
+            
+    @staticmethod
+    def read_torch_file(path):
+        img = torch.load(path)
+
+        return img
 
 
 class Resizing:
@@ -70,6 +119,7 @@ class ToTensor:
             mask = np.transpose(mask, axes=[3, 0, 1, 2])
             img = torch.from_numpy(img).float()
             mask = torch.from_numpy(mask).float()
+
             sample['input'], sample['target'] = img, mask
 
         else:  # if self.mode == 'test'

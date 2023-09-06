@@ -22,6 +22,7 @@ from src.models.components.models import BaselineUNet, FastSmoothSENormDeepUNet_
 from monai.networks.nets import UNETR, SwinUNETR, SegResNet
 from sklearn.metrics import roc_auc_score
 
+torch.set_float32_matmul_precision('medium')
 
 class SegaModule(LightningModule):
     """

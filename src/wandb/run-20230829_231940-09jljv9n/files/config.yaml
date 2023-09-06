@@ -1,0 +1,136 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    python_version: 3.9.17
+    cli_version: 0.15.8
+    framework: lightning
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1693336780.735555
+    t:
+      1:
+      - 1
+      - 5
+      - 9
+      - 35
+      - 41
+      - 48
+      - 50
+      - 53
+      - 55
+      - 103
+      2:
+      - 1
+      - 5
+      - 9
+      - 35
+      - 41
+      - 48
+      - 50
+      - 53
+      - 55
+      - 103
+      3:
+      - 2
+      - 7
+      - 23
+      4: 3.9.17
+      5: 0.15.8
+      8:
+      - 5
+    m:
+    - 1: trainer/global_step
+      6:
+      - 3
+model:
+  desc: null
+  value:
+    _target_: src.models.sega_module.SegaModule
+    model: segresnet
+    lr: 0.001
+    weight_decay: 1.0e-05
+model/params/total:
+  desc: null
+  value: 4700897
+model/params/trainable:
+  desc: null
+  value: 4700897
+model/params/non_trainable:
+  desc: null
+  value: 0
+data:
+  desc: null
+  value:
+    _target_: src.data.sega_datamodule.SegaDataModule
+    data_dir: ${paths.data_dir}
+    batch_size: 1
+    num_workers: 8
+    pin_memory: true
+    Fold: 1
+trainer:
+  desc: null
+  value:
+    _target_: lightning.pytorch.trainer.Trainer
+    default_root_dir: ${paths.output_dir}
+    min_epochs: 1
+    max_epochs: 100
+    accelerator: gpu
+    devices: 1
+    check_val_every_n_epoch: 1
+    deterministic: false
+callbacks:
+  desc: null
+  value:
+    model_checkpoint:
+      _target_: lightning.pytorch.callbacks.ModelCheckpoint
+      dirpath: ${paths.output_dir}/checkpoints
+      filename: epoch_{epoch:03d}
+      monitor: val/dice
+      verbose: false
+      save_last: true
+      save_top_k: 1
+      mode: max
+      auto_insert_metric_name: false
+      save_weights_only: false
+      every_n_train_steps: null
+      train_time_interval: null
+      every_n_epochs: null
+      save_on_train_epoch_end: null
+    early_stopping:
+      _target_: lightning.pytorch.callbacks.EarlyStopping
+      monitor: val/dice
+      min_delta: 0.0
+      patience: 100
+      verbose: false
+      mode: max
+      strict: true
+      check_finite: true
+      stopping_threshold: null
+      divergence_threshold: null
+      check_on_train_epoch_end: null
+    model_summary:
+      _target_: lightning.pytorch.callbacks.RichModelSummary
+      max_depth: -1
+    rich_progress_bar:
+      _target_: lightning.pytorch.callbacks.RichProgressBar
+extras:
+  desc: null
+  value:
+    ignore_warnings: false
+    enforce_tags: true
+    print_config: true
+task_name:
+  desc: null
+  value: train
+tags:
+  desc: null
+  value:
+  - dev
+ckpt_path:
+  desc: null
+  value: null
+seed:
+  desc: null
+  value: null

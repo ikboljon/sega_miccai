@@ -56,14 +56,14 @@ class SegaDataModule(LightningDataModule):
                                 # AdjustContrast(gamma=1),
                                 # ElasticDeformation(),
                                 NormalizeIntensity(),
-                                ToTensor(), 
-                                Resizing(z=256,x=256,y=256),
+                                # ToTensor(), 
+                                # Resizing(z=256,x=256,y=256),
                             ])
 
         self.val_transforms = Compose([
                                 NormalizeIntensity(),
-                                ToTensor(), 
-                                Resizing(z=256,x=256,y=256),
+                                # ToTensor(), 
+                                # Resizing(z=256,x=256,y=256),
                             ])                    
         # self.test_transforms = transforms.Compose([
         #                        NormalizeIntensity(), 
