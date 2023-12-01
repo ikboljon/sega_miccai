@@ -1,0 +1,11 @@
+{
+    "training": [
+        {
+            "id": "CHUV-008",
+            "fold": 0,
+            "ct": "CHUV-008/CHUV-008_ct.nii.gz",
+            "pt": "CHUV-008/CHUV-008_pt.nii.gz",
+            "seg": "CHUV-008/CHUV-008_gt.nii.gz"
+        }
+    ]
+}

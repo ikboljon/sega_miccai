@@ -1,0 +1,3672 @@
+{
+    "training": [
+        {
+            "id": "CHUV-008",
+            "fold": 0,
+            "ct": "CHUV-008/CHUV-008_ct.nii.gz",
+            "pt": "CHUV-008/CHUV-008_pt.nii.gz",
+            "seg": "CHUV-008/CHUV-008_gt.nii.gz"
+        },
+        {
+            "id": "MDA-024",
+            "fold": 0,
+            "ct": "MDA-024/MDA-024_ct.nii.gz",
+            "pt": "MDA-024/MDA-024_pt.nii.gz",
+            "seg": "MDA-024/MDA-024_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-052",
+            "fold": 0,
+            "ct": "CHUS-052/CHUS-052_ct.nii.gz",
+            "pt": "CHUS-052/CHUS-052_pt.nii.gz",
+            "seg": "CHUS-052/CHUS-052_gt.nii.gz"
+        },
+        {
+            "id": "MDA-147",
+            "fold": 0,
+            "ct": "MDA-147/MDA-147_ct.nii.gz",
+            "pt": "MDA-147/MDA-147_pt.nii.gz",
+            "seg": "MDA-147/MDA-147_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-049",
+            "fold": 0,
+            "ct": "CHUS-049/CHUS-049_ct.nii.gz",
+            "pt": "CHUS-049/CHUS-049_pt.nii.gz",
+            "seg": "CHUS-049/CHUS-049_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-026",
+            "fold": 0,
+            "ct": "CHUS-026/CHUS-026_ct.nii.gz",
+            "pt": "CHUS-026/CHUS-026_pt.nii.gz",
+            "seg": "CHUS-026/CHUS-026_gt.nii.gz"
+        },
+        {
+            "id": "MDA-028",
+            "fold": 0,
+            "ct": "MDA-028/MDA-028_ct.nii.gz",
+            "pt": "MDA-028/MDA-028_pt.nii.gz",
+            "seg": "MDA-028/MDA-028_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-025",
+            "fold": 0,
+            "ct": "HGJ-025/HGJ-025_ct.nii.gz",
+            "pt": "HGJ-025/HGJ-025_pt.nii.gz",
+            "seg": "HGJ-025/HGJ-025_gt.nii.gz"
+        },
+        {
+            "id": "MDA-023",
+            "fold": 0,
+            "ct": "MDA-023/MDA-023_ct.nii.gz",
+            "pt": "MDA-023/MDA-023_pt.nii.gz",
+            "seg": "MDA-023/MDA-023_gt.nii.gz"
+        },
+        {
+            "id": "MDA-129",
+            "fold": 0,
+            "ct": "MDA-129/MDA-129_ct.nii.gz",
+            "pt": "MDA-129/MDA-129_pt.nii.gz",
+            "seg": "MDA-129/MDA-129_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-068",
+            "fold": 0,
+            "ct": "CHUP-068/CHUP-068_ct.nii.gz",
+            "pt": "CHUP-068/CHUP-068_pt.nii.gz",
+            "seg": "CHUP-068/CHUP-068_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-087",
+            "fold": 0,
+            "ct": "HGJ-087/HGJ-087_ct.nii.gz",
+            "pt": "HGJ-087/HGJ-087_pt.nii.gz",
+            "seg": "HGJ-087/HGJ-087_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-078",
+            "fold": 0,
+            "ct": "CHUS-078/CHUS-078_ct.nii.gz",
+            "pt": "CHUS-078/CHUS-078_pt.nii.gz",
+            "seg": "CHUS-078/CHUS-078_gt.nii.gz"
+        },
+        {
+            "id": "HMR-023",
+            "fold": 0,
+            "ct": "HMR-023/HMR-023_ct.nii.gz",
+            "pt": "HMR-023/HMR-023_pt.nii.gz",
+            "seg": "HMR-023/HMR-023_gt.nii.gz"
+        },
+        {
+            "id": "MDA-049",
+            "fold": 0,
+            "ct": "MDA-049/MDA-049_ct.nii.gz",
+            "pt": "MDA-049/MDA-049_pt.nii.gz",
+            "seg": "MDA-049/MDA-049_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-047",
+            "fold": 0,
+            "ct": "CHUS-047/CHUS-047_ct.nii.gz",
+            "pt": "CHUS-047/CHUS-047_pt.nii.gz",
+            "seg": "CHUS-047/CHUS-047_gt.nii.gz"
+        },
+        {
+            "id": "MDA-121",
+            "fold": 0,
+            "ct": "MDA-121/MDA-121_ct.nii.gz",
+            "pt": "MDA-121/MDA-121_pt.nii.gz",
+            "seg": "MDA-121/MDA-121_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-055",
+            "fold": 0,
+            "ct": "HGJ-055/HGJ-055_ct.nii.gz",
+            "pt": "HGJ-055/HGJ-055_pt.nii.gz",
+            "seg": "HGJ-055/HGJ-055_gt.nii.gz"
+        },
+        {
+            "id": "MDA-106",
+            "fold": 0,
+            "ct": "MDA-106/MDA-106_ct.nii.gz",
+            "pt": "MDA-106/MDA-106_pt.nii.gz",
+            "seg": "MDA-106/MDA-106_gt.nii.gz"
+        },
+        {
+            "id": "MDA-048",
+            "fold": 0,
+            "ct": "MDA-048/MDA-048_ct.nii.gz",
+            "pt": "MDA-048/MDA-048_pt.nii.gz",
+            "seg": "MDA-048/MDA-048_gt.nii.gz"
+        },
+        {
+            "id": "HMR-021",
+            "fold": 0,
+            "ct": "HMR-021/HMR-021_ct.nii.gz",
+            "pt": "HMR-021/HMR-021_pt.nii.gz",
+            "seg": "HMR-021/HMR-021_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-032",
+            "fold": 0,
+            "ct": "CHUP-032/CHUP-032_ct.nii.gz",
+            "pt": "CHUP-032/CHUP-032_pt.nii.gz",
+            "seg": "CHUP-032/CHUP-032_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-004",
+            "fold": 0,
+            "ct": "CHUP-004/CHUP-004_ct.nii.gz",
+            "pt": "CHUP-004/CHUP-004_pt.nii.gz",
+            "seg": "CHUP-004/CHUP-004_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-064",
+            "fold": 0,
+            "ct": "CHUS-064/CHUS-064_ct.nii.gz",
+            "pt": "CHUS-064/CHUS-064_pt.nii.gz",
+            "seg": "CHUS-064/CHUS-064_gt.nii.gz"
+        },
+        {
+            "id": "MDA-075",
+            "fold": 0,
+            "ct": "MDA-075/MDA-075_ct.nii.gz",
+            "pt": "MDA-075/MDA-075_pt.nii.gz",
+            "seg": "MDA-075/MDA-075_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-054",
+            "fold": 0,
+            "ct": "CHUM-054/CHUM-054_ct.nii.gz",
+            "pt": "CHUM-054/CHUM-054_pt.nii.gz",
+            "seg": "CHUM-054/CHUM-054_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-022",
+            "fold": 0,
+            "ct": "CHUP-022/CHUP-022_ct.nii.gz",
+            "pt": "CHUP-022/CHUP-022_pt.nii.gz",
+            "seg": "CHUP-022/CHUP-022_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-036",
+            "fold": 0,
+            "ct": "CHUM-036/CHUM-036_ct.nii.gz",
+            "pt": "CHUM-036/CHUM-036_pt.nii.gz",
+            "seg": "CHUM-036/CHUM-036_gt.nii.gz"
+        },
+        {
+            "id": "MDA-112",
+            "fold": 0,
+            "ct": "MDA-112/MDA-112_ct.nii.gz",
+            "pt": "MDA-112/MDA-112_pt.nii.gz",
+            "seg": "MDA-112/MDA-112_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-012",
+            "fold": 0,
+            "ct": "CHUP-012/CHUP-012_ct.nii.gz",
+            "pt": "CHUP-012/CHUP-012_pt.nii.gz",
+            "seg": "CHUP-012/CHUP-012_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-058",
+            "fold": 0,
+            "ct": "CHUP-058/CHUP-058_ct.nii.gz",
+            "pt": "CHUP-058/CHUP-058_pt.nii.gz",
+            "seg": "CHUP-058/CHUP-058_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-061",
+            "fold": 0,
+            "ct": "CHUP-061/CHUP-061_ct.nii.gz",
+            "pt": "CHUP-061/CHUP-061_pt.nii.gz",
+            "seg": "CHUP-061/CHUP-061_gt.nii.gz"
+        },
+        {
+            "id": "HMR-005",
+            "fold": 0,
+            "ct": "HMR-005/HMR-005_ct.nii.gz",
+            "pt": "HMR-005/HMR-005_pt.nii.gz",
+            "seg": "HMR-005/HMR-005_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-034",
+            "fold": 0,
+            "ct": "HGJ-034/HGJ-034_ct.nii.gz",
+            "pt": "HGJ-034/HGJ-034_pt.nii.gz",
+            "seg": "HGJ-034/HGJ-034_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-005",
+            "fold": 0,
+            "ct": "CHUS-005/CHUS-005_ct.nii.gz",
+            "pt": "CHUS-005/CHUS-005_pt.nii.gz",
+            "seg": "CHUS-005/CHUS-005_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-019",
+            "fold": 0,
+            "ct": "CHUP-019/CHUP-019_ct.nii.gz",
+            "pt": "CHUP-019/CHUP-019_pt.nii.gz",
+            "seg": "CHUP-019/CHUP-019_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-014",
+            "fold": 0,
+            "ct": "CHUM-014/CHUM-014_ct.nii.gz",
+            "pt": "CHUM-014/CHUM-014_pt.nii.gz",
+            "seg": "CHUM-014/CHUM-014_gt.nii.gz"
+        },
+        {
+            "id": "MDA-188",
+            "fold": 0,
+            "ct": "MDA-188/MDA-188_ct.nii.gz",
+            "pt": "MDA-188/MDA-188_pt.nii.gz",
+            "seg": "MDA-188/MDA-188_gt.nii.gz"
+        },
+        {
+            "id": "MDA-053",
+            "fold": 0,
+            "ct": "MDA-053/MDA-053_ct.nii.gz",
+            "pt": "MDA-053/MDA-053_pt.nii.gz",
+            "seg": "MDA-053/MDA-053_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-032",
+            "fold": 0,
+            "ct": "CHUM-032/CHUM-032_ct.nii.gz",
+            "pt": "CHUM-032/CHUM-032_pt.nii.gz",
+            "seg": "CHUM-032/CHUM-032_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-008",
+            "fold": 0,
+            "ct": "CHUS-008/CHUS-008_ct.nii.gz",
+            "pt": "CHUS-008/CHUS-008_pt.nii.gz",
+            "seg": "CHUS-008/CHUS-008_gt.nii.gz"
+        },
+        {
+            "id": "MDA-122",
+            "fold": 0,
+            "ct": "MDA-122/MDA-122_ct.nii.gz",
+            "pt": "MDA-122/MDA-122_pt.nii.gz",
+            "seg": "MDA-122/MDA-122_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-021",
+            "fold": 0,
+            "ct": "CHUV-021/CHUV-021_ct.nii.gz",
+            "pt": "CHUV-021/CHUV-021_pt.nii.gz",
+            "seg": "CHUV-021/CHUV-021_gt.nii.gz"
+        },
+        {
+            "id": "MDA-150",
+            "fold": 0,
+            "ct": "MDA-150/MDA-150_ct.nii.gz",
+            "pt": "MDA-150/MDA-150_pt.nii.gz",
+            "seg": "MDA-150/MDA-150_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-038",
+            "fold": 0,
+            "ct": "CHUV-038/CHUV-038_ct.nii.gz",
+            "pt": "CHUV-038/CHUV-038_pt.nii.gz",
+            "seg": "CHUV-038/CHUV-038_gt.nii.gz"
+        },
+        {
+            "id": "HMR-001",
+            "fold": 0,
+            "ct": "HMR-001/HMR-001_ct.nii.gz",
+            "pt": "HMR-001/HMR-001_pt.nii.gz",
+            "seg": "HMR-001/HMR-001_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-028",
+            "fold": 0,
+            "ct": "CHUS-028/CHUS-028_ct.nii.gz",
+            "pt": "CHUS-028/CHUS-028_pt.nii.gz",
+            "seg": "CHUS-028/CHUS-028_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-074",
+            "fold": 0,
+            "ct": "CHUP-074/CHUP-074_ct.nii.gz",
+            "pt": "CHUP-074/CHUP-074_pt.nii.gz",
+            "seg": "CHUP-074/CHUP-074_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-057",
+            "fold": 0,
+            "ct": "CHUM-057/CHUM-057_ct.nii.gz",
+            "pt": "CHUM-057/CHUM-057_pt.nii.gz",
+            "seg": "CHUM-057/CHUM-057_gt.nii.gz"
+        },
+        {
+            "id": "MDA-126",
+            "fold": 0,
+            "ct": "MDA-126/MDA-126_ct.nii.gz",
+            "pt": "MDA-126/MDA-126_pt.nii.gz",
+            "seg": "MDA-126/MDA-126_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-015",
+            "fold": 0,
+            "ct": "HGJ-015/HGJ-015_ct.nii.gz",
+            "pt": "HGJ-015/HGJ-015_pt.nii.gz",
+            "seg": "HGJ-015/HGJ-015_gt.nii.gz"
+        },
+        {
+            "id": "MDA-177",
+            "fold": 0,
+            "ct": "MDA-177/MDA-177_ct.nii.gz",
+            "pt": "MDA-177/MDA-177_pt.nii.gz",
+            "seg": "MDA-177/MDA-177_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-056",
+            "fold": 0,
+            "ct": "CHUS-056/CHUS-056_ct.nii.gz",
+            "pt": "CHUS-056/CHUS-056_pt.nii.gz",
+            "seg": "CHUS-056/CHUS-056_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-015",
+            "fold": 0,
+            "ct": "CHUS-015/CHUS-015_ct.nii.gz",
+            "pt": "CHUS-015/CHUS-015_pt.nii.gz",
+            "seg": "CHUS-015/CHUS-015_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-033",
+            "fold": 0,
+            "ct": "CHUV-033/CHUV-033_ct.nii.gz",
+            "pt": "CHUV-033/CHUV-033_pt.nii.gz",
+            "seg": "CHUV-033/CHUV-033_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-091",
+            "fold": 0,
+            "ct": "HGJ-091/HGJ-091_ct.nii.gz",
+            "pt": "HGJ-091/HGJ-091_pt.nii.gz",
+            "seg": "HGJ-091/HGJ-091_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-039",
+            "fold": 0,
+            "ct": "CHUP-039/CHUP-039_ct.nii.gz",
+            "pt": "CHUP-039/CHUP-039_pt.nii.gz",
+            "seg": "CHUP-039/CHUP-039_gt.nii.gz"
+        },
+        {
+            "id": "MDA-143",
+            "fold": 0,
+            "ct": "MDA-143/MDA-143_ct.nii.gz",
+            "pt": "MDA-143/MDA-143_pt.nii.gz",
+            "seg": "MDA-143/MDA-143_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-040",
+            "fold": 0,
+            "ct": "CHUV-040/CHUV-040_ct.nii.gz",
+            "pt": "CHUV-040/CHUV-040_pt.nii.gz",
+            "seg": "CHUV-040/CHUV-040_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-051",
+            "fold": 0,
+            "ct": "CHUP-051/CHUP-051_ct.nii.gz",
+            "pt": "CHUP-051/CHUP-051_pt.nii.gz",
+            "seg": "CHUP-051/CHUP-051_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-016",
+            "fold": 0,
+            "ct": "CHUV-016/CHUV-016_ct.nii.gz",
+            "pt": "CHUV-016/CHUV-016_pt.nii.gz",
+            "seg": "CHUV-016/CHUV-016_gt.nii.gz"
+        },
+        {
+            "id": "MDA-186",
+            "fold": 0,
+            "ct": "MDA-186/MDA-186_ct.nii.gz",
+            "pt": "MDA-186/MDA-186_pt.nii.gz",
+            "seg": "MDA-186/MDA-186_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-060",
+            "fold": 0,
+            "ct": "CHUP-060/CHUP-060_ct.nii.gz",
+            "pt": "CHUP-060/CHUP-060_pt.nii.gz",
+            "seg": "CHUP-060/CHUP-060_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-089",
+            "fold": 0,
+            "ct": "CHUS-089/CHUS-089_ct.nii.gz",
+            "pt": "CHUS-089/CHUS-089_pt.nii.gz",
+            "seg": "CHUS-089/CHUS-089_gt.nii.gz"
+        },
+        {
+            "id": "MDA-004",
+            "fold": 0,
+            "ct": "MDA-004/MDA-004_ct.nii.gz",
+            "pt": "MDA-004/MDA-004_pt.nii.gz",
+            "seg": "MDA-004/MDA-004_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-000",
+            "fold": 0,
+            "ct": "CHUP-000/CHUP-000_ct.nii.gz",
+            "pt": "CHUP-000/CHUP-000_pt.nii.gz",
+            "seg": "CHUP-000/CHUP-000_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-045",
+            "fold": 0,
+            "ct": "CHUS-045/CHUS-045_ct.nii.gz",
+            "pt": "CHUS-045/CHUS-045_pt.nii.gz",
+            "seg": "CHUS-045/CHUS-045_gt.nii.gz"
+        },
+        {
+            "id": "MDA-134",
+            "fold": 0,
+            "ct": "MDA-134/MDA-134_ct.nii.gz",
+            "pt": "MDA-134/MDA-134_pt.nii.gz",
+            "seg": "MDA-134/MDA-134_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-036",
+            "fold": 0,
+            "ct": "CHUS-036/CHUS-036_ct.nii.gz",
+            "pt": "CHUS-036/CHUS-036_pt.nii.gz",
+            "seg": "CHUS-036/CHUS-036_gt.nii.gz"
+        },
+        {
+            "id": "MDA-017",
+            "fold": 0,
+            "ct": "MDA-017/MDA-017_ct.nii.gz",
+            "pt": "MDA-017/MDA-017_pt.nii.gz",
+            "seg": "MDA-017/MDA-017_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-029",
+            "fold": 0,
+            "ct": "CHUP-029/CHUP-029_ct.nii.gz",
+            "pt": "CHUP-029/CHUP-029_pt.nii.gz",
+            "seg": "CHUP-029/CHUP-029_gt.nii.gz"
+        },
+        {
+            "id": "MDA-027",
+            "fold": 0,
+            "ct": "MDA-027/MDA-027_ct.nii.gz",
+            "pt": "MDA-027/MDA-027_pt.nii.gz",
+            "seg": "MDA-027/MDA-027_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-050",
+            "fold": 0,
+            "ct": "CHUM-050/CHUM-050_ct.nii.gz",
+            "pt": "CHUM-050/CHUM-050_pt.nii.gz",
+            "seg": "CHUM-050/CHUM-050_gt.nii.gz"
+        },
+        {
+            "id": "MDA-019",
+            "fold": 0,
+            "ct": "MDA-019/MDA-019_ct.nii.gz",
+            "pt": "MDA-019/MDA-019_pt.nii.gz",
+            "seg": "MDA-019/MDA-019_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-041",
+            "fold": 0,
+            "ct": "CHUV-041/CHUV-041_ct.nii.gz",
+            "pt": "CHUV-041/CHUV-041_pt.nii.gz",
+            "seg": "CHUV-041/CHUV-041_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-051",
+            "fold": 0,
+            "ct": "CHUS-051/CHUS-051_ct.nii.gz",
+            "pt": "CHUS-051/CHUS-051_pt.nii.gz",
+            "seg": "CHUS-051/CHUS-051_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-017",
+            "fold": 0,
+            "ct": "CHUP-017/CHUP-017_ct.nii.gz",
+            "pt": "CHUP-017/CHUP-017_pt.nii.gz",
+            "seg": "CHUP-017/CHUP-017_gt.nii.gz"
+        },
+        {
+            "id": "MDA-081",
+            "fold": 0,
+            "ct": "MDA-081/MDA-081_ct.nii.gz",
+            "pt": "MDA-081/MDA-081_pt.nii.gz",
+            "seg": "MDA-081/MDA-081_gt.nii.gz"
+        },
+        {
+            "id": "MDA-110",
+            "fold": 0,
+            "ct": "MDA-110/MDA-110_ct.nii.gz",
+            "pt": "MDA-110/MDA-110_pt.nii.gz",
+            "seg": "MDA-110/MDA-110_gt.nii.gz"
+        },
+        {
+            "id": "MDA-073",
+            "fold": 0,
+            "ct": "MDA-073/MDA-073_ct.nii.gz",
+            "pt": "MDA-073/MDA-073_pt.nii.gz",
+            "seg": "MDA-073/MDA-073_gt.nii.gz"
+        },
+        {
+            "id": "MDA-100",
+            "fold": 0,
+            "ct": "MDA-100/MDA-100_ct.nii.gz",
+            "pt": "MDA-100/MDA-100_pt.nii.gz",
+            "seg": "MDA-100/MDA-100_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-042",
+            "fold": 0,
+            "ct": "CHUV-042/CHUV-042_ct.nii.gz",
+            "pt": "CHUV-042/CHUV-042_pt.nii.gz",
+            "seg": "CHUV-042/CHUV-042_gt.nii.gz"
+        },
+        {
+            "id": "MDA-117",
+            "fold": 0,
+            "ct": "MDA-117/MDA-117_ct.nii.gz",
+            "pt": "MDA-117/MDA-117_pt.nii.gz",
+            "seg": "MDA-117/MDA-117_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-013",
+            "fold": 0,
+            "ct": "CHUV-013/CHUV-013_ct.nii.gz",
+            "pt": "CHUV-013/CHUV-013_pt.nii.gz",
+            "seg": "CHUV-013/CHUV-013_gt.nii.gz"
+        },
+        {
+            "id": "MDA-038",
+            "fold": 0,
+            "ct": "MDA-038/MDA-038_ct.nii.gz",
+            "pt": "MDA-038/MDA-038_pt.nii.gz",
+            "seg": "MDA-038/MDA-038_gt.nii.gz"
+        },
+        {
+            "id": "MDA-072",
+            "fold": 0,
+            "ct": "MDA-072/MDA-072_ct.nii.gz",
+            "pt": "MDA-072/MDA-072_pt.nii.gz",
+            "seg": "MDA-072/MDA-072_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-009",
+            "fold": 0,
+            "ct": "CHUS-009/CHUS-009_ct.nii.gz",
+            "pt": "CHUS-009/CHUS-009_pt.nii.gz",
+            "seg": "CHUS-009/CHUS-009_gt.nii.gz"
+        },
+        {
+            "id": "HMR-040",
+            "fold": 0,
+            "ct": "HMR-040/HMR-040_ct.nii.gz",
+            "pt": "HMR-040/HMR-040_pt.nii.gz",
+            "seg": "HMR-040/HMR-040_gt.nii.gz"
+        },
+        {
+            "id": "MDA-093",
+            "fold": 0,
+            "ct": "MDA-093/MDA-093_ct.nii.gz",
+            "pt": "MDA-093/MDA-093_pt.nii.gz",
+            "seg": "MDA-093/MDA-093_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-035",
+            "fold": 0,
+            "ct": "CHUS-035/CHUS-035_ct.nii.gz",
+            "pt": "CHUS-035/CHUS-035_pt.nii.gz",
+            "seg": "CHUS-035/CHUS-035_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-019",
+            "fold": 0,
+            "ct": "CHUS-019/CHUS-019_ct.nii.gz",
+            "pt": "CHUS-019/CHUS-019_pt.nii.gz",
+            "seg": "CHUS-019/CHUS-019_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-063",
+            "fold": 0,
+            "ct": "CHUP-063/CHUP-063_ct.nii.gz",
+            "pt": "CHUP-063/CHUP-063_pt.nii.gz",
+            "seg": "CHUP-063/CHUP-063_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-038",
+            "fold": 0,
+            "ct": "CHUS-038/CHUS-038_ct.nii.gz",
+            "pt": "CHUS-038/CHUS-038_pt.nii.gz",
+            "seg": "CHUS-038/CHUS-038_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-051",
+            "fold": 0,
+            "ct": "CHUM-051/CHUM-051_ct.nii.gz",
+            "pt": "CHUM-051/CHUM-051_pt.nii.gz",
+            "seg": "CHUM-051/CHUM-051_gt.nii.gz"
+        },
+        {
+            "id": "MDA-178",
+            "fold": 0,
+            "ct": "MDA-178/MDA-178_ct.nii.gz",
+            "pt": "MDA-178/MDA-178_pt.nii.gz",
+            "seg": "MDA-178/MDA-178_gt.nii.gz"
+        },
+        {
+            "id": "MDA-120",
+            "fold": 0,
+            "ct": "MDA-120/MDA-120_ct.nii.gz",
+            "pt": "MDA-120/MDA-120_pt.nii.gz",
+            "seg": "MDA-120/MDA-120_gt.nii.gz"
+        },
+        {
+            "id": "MDA-191",
+            "fold": 0,
+            "ct": "MDA-191/MDA-191_ct.nii.gz",
+            "pt": "MDA-191/MDA-191_pt.nii.gz",
+            "seg": "MDA-191/MDA-191_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-018",
+            "fold": 0,
+            "ct": "HGJ-018/HGJ-018_ct.nii.gz",
+            "pt": "HGJ-018/HGJ-018_pt.nii.gz",
+            "seg": "HGJ-018/HGJ-018_gt.nii.gz"
+        },
+        {
+            "id": "MDA-194",
+            "fold": 0,
+            "ct": "MDA-194/MDA-194_ct.nii.gz",
+            "pt": "MDA-194/MDA-194_pt.nii.gz",
+            "seg": "MDA-194/MDA-194_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-039",
+            "fold": 0,
+            "ct": "HGJ-039/HGJ-039_ct.nii.gz",
+            "pt": "HGJ-039/HGJ-039_pt.nii.gz",
+            "seg": "HGJ-039/HGJ-039_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-025",
+            "fold": 0,
+            "ct": "CHUP-025/CHUP-025_ct.nii.gz",
+            "pt": "CHUP-025/CHUP-025_pt.nii.gz",
+            "seg": "CHUP-025/CHUP-025_gt.nii.gz"
+        },
+        {
+            "id": "MDA-091",
+            "fold": 0,
+            "ct": "MDA-091/MDA-091_ct.nii.gz",
+            "pt": "MDA-091/MDA-091_pt.nii.gz",
+            "seg": "MDA-091/MDA-091_gt.nii.gz"
+        },
+        {
+            "id": "MDA-108",
+            "fold": 0,
+            "ct": "MDA-108/MDA-108_ct.nii.gz",
+            "pt": "MDA-108/MDA-108_pt.nii.gz",
+            "seg": "MDA-108/MDA-108_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-047",
+            "fold": 0,
+            "ct": "CHUP-047/CHUP-047_ct.nii.gz",
+            "pt": "CHUP-047/CHUP-047_pt.nii.gz",
+            "seg": "CHUP-047/CHUP-047_gt.nii.gz"
+        },
+        {
+            "id": "MDA-016",
+            "fold": 0,
+            "ct": "MDA-016/MDA-016_ct.nii.gz",
+            "pt": "MDA-016/MDA-016_pt.nii.gz",
+            "seg": "MDA-016/MDA-016_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-002",
+            "fold": 1,
+            "ct": "CHUV-002/CHUV-002_ct.nii.gz",
+            "pt": "CHUV-002/CHUV-002_pt.nii.gz",
+            "seg": "CHUV-002/CHUV-002_gt.nii.gz"
+        },
+        {
+            "id": "MDA-146",
+            "fold": 1,
+            "ct": "MDA-146/MDA-146_ct.nii.gz",
+            "pt": "MDA-146/MDA-146_pt.nii.gz",
+            "seg": "MDA-146/MDA-146_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-081",
+            "fold": 1,
+            "ct": "CHUS-081/CHUS-081_ct.nii.gz",
+            "pt": "CHUS-081/CHUS-081_pt.nii.gz",
+            "seg": "CHUS-081/CHUS-081_gt.nii.gz"
+        },
+        {
+            "id": "MDA-199",
+            "fold": 1,
+            "ct": "MDA-199/MDA-199_ct.nii.gz",
+            "pt": "MDA-199/MDA-199_pt.nii.gz",
+            "seg": "MDA-199/MDA-199_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-028",
+            "fold": 1,
+            "ct": "CHUP-028/CHUP-028_ct.nii.gz",
+            "pt": "CHUP-028/CHUP-028_pt.nii.gz",
+            "seg": "CHUP-028/CHUP-028_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-043",
+            "fold": 1,
+            "ct": "CHUS-043/CHUS-043_ct.nii.gz",
+            "pt": "CHUS-043/CHUS-043_pt.nii.gz",
+            "seg": "CHUS-043/CHUS-043_gt.nii.gz"
+        },
+        {
+            "id": "MDA-059",
+            "fold": 1,
+            "ct": "MDA-059/MDA-059_ct.nii.gz",
+            "pt": "MDA-059/MDA-059_pt.nii.gz",
+            "seg": "MDA-059/MDA-059_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-086",
+            "fold": 1,
+            "ct": "HGJ-086/HGJ-086_ct.nii.gz",
+            "pt": "HGJ-086/HGJ-086_pt.nii.gz",
+            "seg": "HGJ-086/HGJ-086_gt.nii.gz"
+        },
+        {
+            "id": "MDA-175",
+            "fold": 1,
+            "ct": "MDA-175/MDA-175_ct.nii.gz",
+            "pt": "MDA-175/MDA-175_pt.nii.gz",
+            "seg": "MDA-175/MDA-175_gt.nii.gz"
+        },
+        {
+            "id": "MDA-051",
+            "fold": 1,
+            "ct": "MDA-051/MDA-051_ct.nii.gz",
+            "pt": "MDA-051/MDA-051_pt.nii.gz",
+            "seg": "MDA-051/MDA-051_gt.nii.gz"
+        },
+        {
+            "id": "MDA-192",
+            "fold": 1,
+            "ct": "MDA-192/MDA-192_ct.nii.gz",
+            "pt": "MDA-192/MDA-192_pt.nii.gz",
+            "seg": "MDA-192/MDA-192_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-027",
+            "fold": 1,
+            "ct": "CHUV-027/CHUV-027_ct.nii.gz",
+            "pt": "CHUV-027/CHUV-027_pt.nii.gz",
+            "seg": "CHUV-027/CHUV-027_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-004",
+            "fold": 1,
+            "ct": "CHUV-004/CHUV-004_ct.nii.gz",
+            "pt": "CHUV-004/CHUV-004_pt.nii.gz",
+            "seg": "CHUV-004/CHUV-004_gt.nii.gz"
+        },
+        {
+            "id": "MDA-058",
+            "fold": 1,
+            "ct": "MDA-058/MDA-058_ct.nii.gz",
+            "pt": "MDA-058/MDA-058_pt.nii.gz",
+            "seg": "MDA-058/MDA-058_gt.nii.gz"
+        },
+        {
+            "id": "MDA-165",
+            "fold": 1,
+            "ct": "MDA-165/MDA-165_ct.nii.gz",
+            "pt": "MDA-165/MDA-165_pt.nii.gz",
+            "seg": "MDA-165/MDA-165_gt.nii.gz"
+        },
+        {
+            "id": "MDA-119",
+            "fold": 1,
+            "ct": "MDA-119/MDA-119_ct.nii.gz",
+            "pt": "MDA-119/MDA-119_pt.nii.gz",
+            "seg": "MDA-119/MDA-119_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-042",
+            "fold": 1,
+            "ct": "CHUP-042/CHUP-042_ct.nii.gz",
+            "pt": "CHUP-042/CHUP-042_pt.nii.gz",
+            "seg": "CHUP-042/CHUP-042_gt.nii.gz"
+        },
+        {
+            "id": "MDA-078",
+            "fold": 1,
+            "ct": "MDA-078/MDA-078_ct.nii.gz",
+            "pt": "MDA-078/MDA-078_pt.nii.gz",
+            "seg": "MDA-078/MDA-078_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-080",
+            "fold": 1,
+            "ct": "HGJ-080/HGJ-080_ct.nii.gz",
+            "pt": "HGJ-080/HGJ-080_pt.nii.gz",
+            "seg": "HGJ-080/HGJ-080_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-075",
+            "fold": 1,
+            "ct": "CHUP-075/CHUP-075_ct.nii.gz",
+            "pt": "CHUP-075/CHUP-075_pt.nii.gz",
+            "seg": "CHUP-075/CHUP-075_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-069",
+            "fold": 1,
+            "ct": "CHUS-069/CHUS-069_ct.nii.gz",
+            "pt": "CHUS-069/CHUS-069_pt.nii.gz",
+            "seg": "CHUS-069/CHUS-069_gt.nii.gz"
+        },
+        {
+            "id": "MDA-006",
+            "fold": 1,
+            "ct": "MDA-006/MDA-006_ct.nii.gz",
+            "pt": "MDA-006/MDA-006_pt.nii.gz",
+            "seg": "MDA-006/MDA-006_gt.nii.gz"
+        },
+        {
+            "id": "MDA-173",
+            "fold": 1,
+            "ct": "MDA-173/MDA-173_ct.nii.gz",
+            "pt": "MDA-173/MDA-173_pt.nii.gz",
+            "seg": "MDA-173/MDA-173_gt.nii.gz"
+        },
+        {
+            "id": "MDA-089",
+            "fold": 1,
+            "ct": "MDA-089/MDA-089_ct.nii.gz",
+            "pt": "MDA-089/MDA-089_pt.nii.gz",
+            "seg": "MDA-089/MDA-089_gt.nii.gz"
+        },
+        {
+            "id": "MDA-174",
+            "fold": 1,
+            "ct": "MDA-174/MDA-174_ct.nii.gz",
+            "pt": "MDA-174/MDA-174_pt.nii.gz",
+            "seg": "MDA-174/MDA-174_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-006",
+            "fold": 1,
+            "ct": "CHUV-006/CHUV-006_ct.nii.gz",
+            "pt": "CHUV-006/CHUV-006_pt.nii.gz",
+            "seg": "CHUV-006/CHUV-006_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-001",
+            "fold": 1,
+            "ct": "CHUP-001/CHUP-001_ct.nii.gz",
+            "pt": "CHUP-001/CHUP-001_pt.nii.gz",
+            "seg": "CHUP-001/CHUP-001_gt.nii.gz"
+        },
+        {
+            "id": "MDA-151",
+            "fold": 1,
+            "ct": "MDA-151/MDA-151_ct.nii.gz",
+            "pt": "MDA-151/MDA-151_pt.nii.gz",
+            "seg": "MDA-151/MDA-151_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-030",
+            "fold": 1,
+            "ct": "CHUS-030/CHUS-030_ct.nii.gz",
+            "pt": "CHUS-030/CHUS-030_pt.nii.gz",
+            "seg": "CHUS-030/CHUS-030_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-018",
+            "fold": 1,
+            "ct": "CHUV-018/CHUV-018_ct.nii.gz",
+            "pt": "CHUV-018/CHUV-018_pt.nii.gz",
+            "seg": "CHUV-018/CHUV-018_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-016",
+            "fold": 1,
+            "ct": "CHUS-016/CHUS-016_ct.nii.gz",
+            "pt": "CHUS-016/CHUS-016_pt.nii.gz",
+            "seg": "CHUS-016/CHUS-016_gt.nii.gz"
+        },
+        {
+            "id": "MDA-189",
+            "fold": 1,
+            "ct": "MDA-189/MDA-189_ct.nii.gz",
+            "pt": "MDA-189/MDA-189_pt.nii.gz",
+            "seg": "MDA-189/MDA-189_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-025",
+            "fold": 1,
+            "ct": "CHUV-025/CHUV-025_ct.nii.gz",
+            "pt": "CHUV-025/CHUV-025_pt.nii.gz",
+            "seg": "CHUV-025/CHUV-025_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-050",
+            "fold": 1,
+            "ct": "HGJ-050/HGJ-050_ct.nii.gz",
+            "pt": "HGJ-050/HGJ-050_pt.nii.gz",
+            "seg": "HGJ-050/HGJ-050_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-037",
+            "fold": 1,
+            "ct": "CHUV-037/CHUV-037_ct.nii.gz",
+            "pt": "CHUV-037/CHUV-037_pt.nii.gz",
+            "seg": "CHUV-037/CHUV-037_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-007",
+            "fold": 1,
+            "ct": "CHUV-007/CHUV-007_ct.nii.gz",
+            "pt": "CHUV-007/CHUV-007_pt.nii.gz",
+            "seg": "CHUV-007/CHUV-007_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-011",
+            "fold": 1,
+            "ct": "CHUM-011/CHUM-011_ct.nii.gz",
+            "pt": "CHUM-011/CHUM-011_pt.nii.gz",
+            "seg": "CHUM-011/CHUM-011_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-090",
+            "fold": 1,
+            "ct": "CHUS-090/CHUS-090_ct.nii.gz",
+            "pt": "CHUS-090/CHUS-090_pt.nii.gz",
+            "seg": "CHUS-090/CHUS-090_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-076",
+            "fold": 1,
+            "ct": "CHUS-076/CHUS-076_ct.nii.gz",
+            "pt": "CHUS-076/CHUS-076_pt.nii.gz",
+            "seg": "CHUS-076/CHUS-076_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-018",
+            "fold": 1,
+            "ct": "CHUP-018/CHUP-018_ct.nii.gz",
+            "pt": "CHUP-018/CHUP-018_pt.nii.gz",
+            "seg": "CHUP-018/CHUP-018_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-092",
+            "fold": 1,
+            "ct": "HGJ-092/HGJ-092_ct.nii.gz",
+            "pt": "HGJ-092/HGJ-092_pt.nii.gz",
+            "seg": "HGJ-092/HGJ-092_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-028",
+            "fold": 1,
+            "ct": "HGJ-028/HGJ-028_ct.nii.gz",
+            "pt": "HGJ-028/HGJ-028_pt.nii.gz",
+            "seg": "HGJ-028/HGJ-028_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-083",
+            "fold": 1,
+            "ct": "HGJ-083/HGJ-083_ct.nii.gz",
+            "pt": "HGJ-083/HGJ-083_pt.nii.gz",
+            "seg": "HGJ-083/HGJ-083_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-038",
+            "fold": 1,
+            "ct": "CHUP-038/CHUP-038_ct.nii.gz",
+            "pt": "CHUP-038/CHUP-038_pt.nii.gz",
+            "seg": "CHUP-038/CHUP-038_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-046",
+            "fold": 1,
+            "ct": "CHUP-046/CHUP-046_ct.nii.gz",
+            "pt": "CHUP-046/CHUP-046_pt.nii.gz",
+            "seg": "CHUP-046/CHUP-046_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-007",
+            "fold": 1,
+            "ct": "CHUS-007/CHUS-007_ct.nii.gz",
+            "pt": "CHUS-007/CHUS-007_pt.nii.gz",
+            "seg": "CHUS-007/CHUS-007_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-040",
+            "fold": 1,
+            "ct": "CHUM-040/CHUM-040_ct.nii.gz",
+            "pt": "CHUM-040/CHUM-040_pt.nii.gz",
+            "seg": "CHUM-040/CHUM-040_gt.nii.gz"
+        },
+        {
+            "id": "MDA-042",
+            "fold": 1,
+            "ct": "MDA-042/MDA-042_ct.nii.gz",
+            "pt": "MDA-042/MDA-042_pt.nii.gz",
+            "seg": "MDA-042/MDA-042_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-022",
+            "fold": 1,
+            "ct": "CHUS-022/CHUS-022_ct.nii.gz",
+            "pt": "CHUS-022/CHUS-022_pt.nii.gz",
+            "seg": "CHUS-022/CHUS-022_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-016",
+            "fold": 1,
+            "ct": "HGJ-016/HGJ-016_ct.nii.gz",
+            "pt": "HGJ-016/HGJ-016_pt.nii.gz",
+            "seg": "HGJ-016/HGJ-016_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-056",
+            "fold": 1,
+            "ct": "CHUM-056/CHUM-056_ct.nii.gz",
+            "pt": "CHUM-056/CHUM-056_pt.nii.gz",
+            "seg": "CHUM-056/CHUM-056_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-056",
+            "fold": 1,
+            "ct": "CHUP-056/CHUP-056_ct.nii.gz",
+            "pt": "CHUP-056/CHUP-056_pt.nii.gz",
+            "seg": "CHUP-056/CHUP-056_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-036",
+            "fold": 1,
+            "ct": "CHUP-036/CHUP-036_ct.nii.gz",
+            "pt": "CHUP-036/CHUP-036_pt.nii.gz",
+            "seg": "CHUP-036/CHUP-036_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-066",
+            "fold": 1,
+            "ct": "CHUP-066/CHUP-066_ct.nii.gz",
+            "pt": "CHUP-066/CHUP-066_pt.nii.gz",
+            "seg": "CHUP-066/CHUP-066_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-074",
+            "fold": 1,
+            "ct": "HGJ-074/HGJ-074_ct.nii.gz",
+            "pt": "HGJ-074/HGJ-074_pt.nii.gz",
+            "seg": "HGJ-074/HGJ-074_gt.nii.gz"
+        },
+        {
+            "id": "MDA-054",
+            "fold": 1,
+            "ct": "MDA-054/MDA-054_ct.nii.gz",
+            "pt": "MDA-054/MDA-054_pt.nii.gz",
+            "seg": "MDA-054/MDA-054_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-030",
+            "fold": 1,
+            "ct": "CHUP-030/CHUP-030_ct.nii.gz",
+            "pt": "CHUP-030/CHUP-030_pt.nii.gz",
+            "seg": "CHUP-030/CHUP-030_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-034",
+            "fold": 1,
+            "ct": "CHUV-034/CHUV-034_ct.nii.gz",
+            "pt": "CHUV-034/CHUV-034_pt.nii.gz",
+            "seg": "CHUV-034/CHUV-034_gt.nii.gz"
+        },
+        {
+            "id": "HMR-004",
+            "fold": 1,
+            "ct": "HMR-004/HMR-004_ct.nii.gz",
+            "pt": "HMR-004/HMR-004_pt.nii.gz",
+            "seg": "HMR-004/HMR-004_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-046",
+            "fold": 1,
+            "ct": "CHUM-046/CHUM-046_ct.nii.gz",
+            "pt": "CHUM-046/CHUM-046_pt.nii.gz",
+            "seg": "CHUM-046/CHUM-046_gt.nii.gz"
+        },
+        {
+            "id": "MDA-152",
+            "fold": 1,
+            "ct": "MDA-152/MDA-152_ct.nii.gz",
+            "pt": "MDA-152/MDA-152_pt.nii.gz",
+            "seg": "MDA-152/MDA-152_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-044",
+            "fold": 1,
+            "ct": "CHUM-044/CHUM-044_ct.nii.gz",
+            "pt": "CHUM-044/CHUM-044_pt.nii.gz",
+            "seg": "CHUM-044/CHUM-044_gt.nii.gz"
+        },
+        {
+            "id": "MDA-111",
+            "fold": 1,
+            "ct": "MDA-111/MDA-111_ct.nii.gz",
+            "pt": "MDA-111/MDA-111_pt.nii.gz",
+            "seg": "MDA-111/MDA-111_gt.nii.gz"
+        },
+        {
+            "id": "MDA-125",
+            "fold": 1,
+            "ct": "MDA-125/MDA-125_ct.nii.gz",
+            "pt": "MDA-125/MDA-125_pt.nii.gz",
+            "seg": "MDA-125/MDA-125_gt.nii.gz"
+        },
+        {
+            "id": "MDA-155",
+            "fold": 1,
+            "ct": "MDA-155/MDA-155_ct.nii.gz",
+            "pt": "MDA-155/MDA-155_pt.nii.gz",
+            "seg": "MDA-155/MDA-155_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-066",
+            "fold": 1,
+            "ct": "HGJ-066/HGJ-066_ct.nii.gz",
+            "pt": "HGJ-066/HGJ-066_pt.nii.gz",
+            "seg": "HGJ-066/HGJ-066_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-055",
+            "fold": 1,
+            "ct": "CHUP-055/CHUP-055_ct.nii.gz",
+            "pt": "CHUP-055/CHUP-055_pt.nii.gz",
+            "seg": "CHUP-055/CHUP-055_gt.nii.gz"
+        },
+        {
+            "id": "HMR-020",
+            "fold": 1,
+            "ct": "HMR-020/HMR-020_ct.nii.gz",
+            "pt": "HMR-020/HMR-020_pt.nii.gz",
+            "seg": "HMR-020/HMR-020_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-038",
+            "fold": 1,
+            "ct": "HGJ-038/HGJ-038_ct.nii.gz",
+            "pt": "HGJ-038/HGJ-038_pt.nii.gz",
+            "seg": "HGJ-038/HGJ-038_gt.nii.gz"
+        },
+        {
+            "id": "MDA-141",
+            "fold": 1,
+            "ct": "MDA-141/MDA-141_ct.nii.gz",
+            "pt": "MDA-141/MDA-141_pt.nii.gz",
+            "seg": "MDA-141/MDA-141_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-035",
+            "fold": 1,
+            "ct": "HGJ-035/HGJ-035_ct.nii.gz",
+            "pt": "HGJ-035/HGJ-035_pt.nii.gz",
+            "seg": "HGJ-035/HGJ-035_gt.nii.gz"
+        },
+        {
+            "id": "MDA-071",
+            "fold": 1,
+            "ct": "MDA-071/MDA-071_ct.nii.gz",
+            "pt": "MDA-071/MDA-071_pt.nii.gz",
+            "seg": "MDA-071/MDA-071_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-041",
+            "fold": 1,
+            "ct": "CHUM-041/CHUM-041_ct.nii.gz",
+            "pt": "CHUM-041/CHUM-041_pt.nii.gz",
+            "seg": "CHUM-041/CHUM-041_gt.nii.gz"
+        },
+        {
+            "id": "MDA-099",
+            "fold": 1,
+            "ct": "MDA-099/MDA-099_ct.nii.gz",
+            "pt": "MDA-099/MDA-099_pt.nii.gz",
+            "seg": "MDA-099/MDA-099_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-021",
+            "fold": 1,
+            "ct": "CHUM-021/CHUM-021_ct.nii.gz",
+            "pt": "CHUM-021/CHUM-021_pt.nii.gz",
+            "seg": "CHUM-021/CHUM-021_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-046",
+            "fold": 1,
+            "ct": "CHUS-046/CHUS-046_ct.nii.gz",
+            "pt": "CHUS-046/CHUS-046_pt.nii.gz",
+            "seg": "CHUS-046/CHUS-046_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-018",
+            "fold": 1,
+            "ct": "CHUM-018/CHUM-018_ct.nii.gz",
+            "pt": "CHUM-018/CHUM-018_pt.nii.gz",
+            "seg": "CHUM-018/CHUM-018_gt.nii.gz"
+        },
+        {
+            "id": "MDA-159",
+            "fold": 1,
+            "ct": "MDA-159/MDA-159_ct.nii.gz",
+            "pt": "MDA-159/MDA-159_pt.nii.gz",
+            "seg": "MDA-159/MDA-159_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-024",
+            "fold": 1,
+            "ct": "CHUM-024/CHUM-024_ct.nii.gz",
+            "pt": "CHUM-024/CHUM-024_pt.nii.gz",
+            "seg": "CHUM-024/CHUM-024_gt.nii.gz"
+        },
+        {
+            "id": "MDA-140",
+            "fold": 1,
+            "ct": "MDA-140/MDA-140_ct.nii.gz",
+            "pt": "MDA-140/MDA-140_pt.nii.gz",
+            "seg": "MDA-140/MDA-140_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-049",
+            "fold": 1,
+            "ct": "CHUV-049/CHUV-049_ct.nii.gz",
+            "pt": "CHUV-049/CHUV-049_pt.nii.gz",
+            "seg": "CHUV-049/CHUV-049_gt.nii.gz"
+        },
+        {
+            "id": "MDA-196",
+            "fold": 1,
+            "ct": "MDA-196/MDA-196_ct.nii.gz",
+            "pt": "MDA-196/MDA-196_pt.nii.gz",
+            "seg": "MDA-196/MDA-196_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-039",
+            "fold": 1,
+            "ct": "CHUS-039/CHUS-039_ct.nii.gz",
+            "pt": "CHUS-039/CHUS-039_pt.nii.gz",
+            "seg": "CHUS-039/CHUS-039_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-069",
+            "fold": 1,
+            "ct": "CHUP-069/CHUP-069_ct.nii.gz",
+            "pt": "CHUP-069/CHUP-069_pt.nii.gz",
+            "seg": "CHUP-069/CHUP-069_gt.nii.gz"
+        },
+        {
+            "id": "MDA-056",
+            "fold": 1,
+            "ct": "MDA-056/MDA-056_ct.nii.gz",
+            "pt": "MDA-056/MDA-056_pt.nii.gz",
+            "seg": "MDA-056/MDA-056_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-036",
+            "fold": 1,
+            "ct": "HGJ-036/HGJ-036_ct.nii.gz",
+            "pt": "HGJ-036/HGJ-036_pt.nii.gz",
+            "seg": "HGJ-036/HGJ-036_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-059",
+            "fold": 1,
+            "ct": "CHUP-059/CHUP-059_ct.nii.gz",
+            "pt": "CHUP-059/CHUP-059_pt.nii.gz",
+            "seg": "CHUP-059/CHUP-059_gt.nii.gz"
+        },
+        {
+            "id": "MDA-114",
+            "fold": 1,
+            "ct": "MDA-114/MDA-114_ct.nii.gz",
+            "pt": "MDA-114/MDA-114_pt.nii.gz",
+            "seg": "MDA-114/MDA-114_gt.nii.gz"
+        },
+        {
+            "id": "MDA-145",
+            "fold": 1,
+            "ct": "MDA-145/MDA-145_ct.nii.gz",
+            "pt": "MDA-145/MDA-145_pt.nii.gz",
+            "seg": "MDA-145/MDA-145_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-029",
+            "fold": 1,
+            "ct": "CHUV-029/CHUV-029_ct.nii.gz",
+            "pt": "CHUV-029/CHUV-029_pt.nii.gz",
+            "seg": "CHUV-029/CHUV-029_gt.nii.gz"
+        },
+        {
+            "id": "MDA-074",
+            "fold": 1,
+            "ct": "MDA-074/MDA-074_ct.nii.gz",
+            "pt": "MDA-074/MDA-074_pt.nii.gz",
+            "seg": "MDA-074/MDA-074_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-040",
+            "fold": 1,
+            "ct": "CHUP-040/CHUP-040_ct.nii.gz",
+            "pt": "CHUP-040/CHUP-040_pt.nii.gz",
+            "seg": "CHUP-040/CHUP-040_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-058",
+            "fold": 1,
+            "ct": "HGJ-058/HGJ-058_ct.nii.gz",
+            "pt": "HGJ-058/HGJ-058_pt.nii.gz",
+            "seg": "HGJ-058/HGJ-058_gt.nii.gz"
+        },
+        {
+            "id": "MDA-171",
+            "fold": 1,
+            "ct": "MDA-171/MDA-171_ct.nii.gz",
+            "pt": "MDA-171/MDA-171_pt.nii.gz",
+            "seg": "MDA-171/MDA-171_gt.nii.gz"
+        },
+        {
+            "id": "MDA-142",
+            "fold": 1,
+            "ct": "MDA-142/MDA-142_ct.nii.gz",
+            "pt": "MDA-142/MDA-142_pt.nii.gz",
+            "seg": "MDA-142/MDA-142_gt.nii.gz"
+        },
+        {
+            "id": "MDA-013",
+            "fold": 1,
+            "ct": "MDA-013/MDA-013_ct.nii.gz",
+            "pt": "MDA-013/MDA-013_pt.nii.gz",
+            "seg": "MDA-013/MDA-013_gt.nii.gz"
+        },
+        {
+            "id": "MDA-136",
+            "fold": 1,
+            "ct": "MDA-136/MDA-136_ct.nii.gz",
+            "pt": "MDA-136/MDA-136_pt.nii.gz",
+            "seg": "MDA-136/MDA-136_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-090",
+            "fold": 1,
+            "ct": "HGJ-090/HGJ-090_ct.nii.gz",
+            "pt": "HGJ-090/HGJ-090_pt.nii.gz",
+            "seg": "HGJ-090/HGJ-090_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-015",
+            "fold": 1,
+            "ct": "CHUM-015/CHUM-015_ct.nii.gz",
+            "pt": "CHUM-015/CHUM-015_pt.nii.gz",
+            "seg": "CHUM-015/CHUM-015_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-049",
+            "fold": 1,
+            "ct": "CHUM-049/CHUM-049_ct.nii.gz",
+            "pt": "CHUM-049/CHUM-049_pt.nii.gz",
+            "seg": "CHUM-049/CHUM-049_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-073",
+            "fold": 1,
+            "ct": "CHUP-073/CHUP-073_ct.nii.gz",
+            "pt": "CHUP-073/CHUP-073_pt.nii.gz",
+            "seg": "CHUP-073/CHUP-073_gt.nii.gz"
+        },
+        {
+            "id": "MDA-170",
+            "fold": 1,
+            "ct": "MDA-170/MDA-170_ct.nii.gz",
+            "pt": "MDA-170/MDA-170_pt.nii.gz",
+            "seg": "MDA-170/MDA-170_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-054",
+            "fold": 1,
+            "ct": "CHUP-054/CHUP-054_ct.nii.gz",
+            "pt": "CHUP-054/CHUP-054_pt.nii.gz",
+            "seg": "CHUP-054/CHUP-054_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-057",
+            "fold": 1,
+            "ct": "CHUS-057/CHUS-057_ct.nii.gz",
+            "pt": "CHUS-057/CHUS-057_pt.nii.gz",
+            "seg": "CHUS-057/CHUS-057_gt.nii.gz"
+        },
+        {
+            "id": "MDA-149",
+            "fold": 1,
+            "ct": "MDA-149/MDA-149_ct.nii.gz",
+            "pt": "MDA-149/MDA-149_pt.nii.gz",
+            "seg": "MDA-149/MDA-149_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-082",
+            "fold": 2,
+            "ct": "HGJ-082/HGJ-082_ct.nii.gz",
+            "pt": "HGJ-082/HGJ-082_pt.nii.gz",
+            "seg": "HGJ-082/HGJ-082_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-011",
+            "fold": 2,
+            "ct": "CHUV-011/CHUV-011_ct.nii.gz",
+            "pt": "CHUV-011/CHUV-011_pt.nii.gz",
+            "seg": "CHUV-011/CHUV-011_gt.nii.gz"
+        },
+        {
+            "id": "MDA-123",
+            "fold": 2,
+            "ct": "MDA-123/MDA-123_ct.nii.gz",
+            "pt": "MDA-123/MDA-123_pt.nii.gz",
+            "seg": "MDA-123/MDA-123_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-070",
+            "fold": 2,
+            "ct": "HGJ-070/HGJ-070_ct.nii.gz",
+            "pt": "HGJ-070/HGJ-070_pt.nii.gz",
+            "seg": "HGJ-070/HGJ-070_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-003",
+            "fold": 2,
+            "ct": "CHUV-003/CHUV-003_ct.nii.gz",
+            "pt": "CHUV-003/CHUV-003_pt.nii.gz",
+            "seg": "CHUV-003/CHUV-003_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-065",
+            "fold": 2,
+            "ct": "CHUP-065/CHUP-065_ct.nii.gz",
+            "pt": "CHUP-065/CHUP-065_pt.nii.gz",
+            "seg": "CHUP-065/CHUP-065_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-085",
+            "fold": 2,
+            "ct": "HGJ-085/HGJ-085_ct.nii.gz",
+            "pt": "HGJ-085/HGJ-085_pt.nii.gz",
+            "seg": "HGJ-085/HGJ-085_gt.nii.gz"
+        },
+        {
+            "id": "MDA-198",
+            "fold": 2,
+            "ct": "MDA-198/MDA-198_ct.nii.gz",
+            "pt": "MDA-198/MDA-198_pt.nii.gz",
+            "seg": "MDA-198/MDA-198_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-013",
+            "fold": 2,
+            "ct": "CHUP-013/CHUP-013_ct.nii.gz",
+            "pt": "CHUP-013/CHUP-013_pt.nii.gz",
+            "seg": "CHUP-013/CHUP-013_gt.nii.gz"
+        },
+        {
+            "id": "HMR-034",
+            "fold": 2,
+            "ct": "HMR-034/HMR-034_ct.nii.gz",
+            "pt": "HMR-034/HMR-034_pt.nii.gz",
+            "seg": "HMR-034/HMR-034_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-049",
+            "fold": 2,
+            "ct": "CHUP-049/CHUP-049_ct.nii.gz",
+            "pt": "CHUP-049/CHUP-049_pt.nii.gz",
+            "seg": "CHUP-049/CHUP-049_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-089",
+            "fold": 2,
+            "ct": "HGJ-089/HGJ-089_ct.nii.gz",
+            "pt": "HGJ-089/HGJ-089_pt.nii.gz",
+            "seg": "HGJ-089/HGJ-089_gt.nii.gz"
+        },
+        {
+            "id": "HMR-024",
+            "fold": 2,
+            "ct": "HMR-024/HMR-024_ct.nii.gz",
+            "pt": "HMR-024/HMR-024_pt.nii.gz",
+            "seg": "HMR-024/HMR-024_gt.nii.gz"
+        },
+        {
+            "id": "MDA-103",
+            "fold": 2,
+            "ct": "MDA-103/MDA-103_ct.nii.gz",
+            "pt": "MDA-103/MDA-103_pt.nii.gz",
+            "seg": "MDA-103/MDA-103_gt.nii.gz"
+        },
+        {
+            "id": "MDA-160",
+            "fold": 2,
+            "ct": "MDA-160/MDA-160_ct.nii.gz",
+            "pt": "MDA-160/MDA-160_pt.nii.gz",
+            "seg": "MDA-160/MDA-160_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-039",
+            "fold": 2,
+            "ct": "CHUM-039/CHUM-039_ct.nii.gz",
+            "pt": "CHUM-039/CHUM-039_pt.nii.gz",
+            "seg": "CHUM-039/CHUM-039_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-020",
+            "fold": 2,
+            "ct": "CHUP-020/CHUP-020_ct.nii.gz",
+            "pt": "CHUP-020/CHUP-020_pt.nii.gz",
+            "seg": "CHUP-020/CHUP-020_gt.nii.gz"
+        },
+        {
+            "id": "HMR-030",
+            "fold": 2,
+            "ct": "HMR-030/HMR-030_ct.nii.gz",
+            "pt": "HMR-030/HMR-030_pt.nii.gz",
+            "seg": "HMR-030/HMR-030_gt.nii.gz"
+        },
+        {
+            "id": "MDA-130",
+            "fold": 2,
+            "ct": "MDA-130/MDA-130_ct.nii.gz",
+            "pt": "MDA-130/MDA-130_pt.nii.gz",
+            "seg": "MDA-130/MDA-130_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-088",
+            "fold": 2,
+            "ct": "HGJ-088/HGJ-088_ct.nii.gz",
+            "pt": "HGJ-088/HGJ-088_pt.nii.gz",
+            "seg": "HGJ-088/HGJ-088_gt.nii.gz"
+        },
+        {
+            "id": "MDA-179",
+            "fold": 2,
+            "ct": "MDA-179/MDA-179_ct.nii.gz",
+            "pt": "MDA-179/MDA-179_pt.nii.gz",
+            "seg": "MDA-179/MDA-179_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-042",
+            "fold": 2,
+            "ct": "CHUS-042/CHUS-042_ct.nii.gz",
+            "pt": "CHUS-042/CHUS-042_pt.nii.gz",
+            "seg": "CHUS-042/CHUS-042_gt.nii.gz"
+        },
+        {
+            "id": "MDA-105",
+            "fold": 2,
+            "ct": "MDA-105/MDA-105_ct.nii.gz",
+            "pt": "MDA-105/MDA-105_pt.nii.gz",
+            "seg": "MDA-105/MDA-105_gt.nii.gz"
+        },
+        {
+            "id": "MDA-095",
+            "fold": 2,
+            "ct": "MDA-095/MDA-095_ct.nii.gz",
+            "pt": "MDA-095/MDA-095_pt.nii.gz",
+            "seg": "MDA-095/MDA-095_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-017",
+            "fold": 2,
+            "ct": "CHUM-017/CHUM-017_ct.nii.gz",
+            "pt": "CHUM-017/CHUM-017_pt.nii.gz",
+            "seg": "CHUM-017/CHUM-017_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-051",
+            "fold": 2,
+            "ct": "CHUV-051/CHUV-051_ct.nii.gz",
+            "pt": "CHUV-051/CHUV-051_pt.nii.gz",
+            "seg": "CHUV-051/CHUV-051_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-058",
+            "fold": 2,
+            "ct": "CHUS-058/CHUS-058_ct.nii.gz",
+            "pt": "CHUS-058/CHUS-058_pt.nii.gz",
+            "seg": "CHUS-058/CHUS-058_gt.nii.gz"
+        },
+        {
+            "id": "MDA-036",
+            "fold": 2,
+            "ct": "MDA-036/MDA-036_ct.nii.gz",
+            "pt": "MDA-036/MDA-036_pt.nii.gz",
+            "seg": "MDA-036/MDA-036_gt.nii.gz"
+        },
+        {
+            "id": "MDA-037",
+            "fold": 2,
+            "ct": "MDA-037/MDA-037_ct.nii.gz",
+            "pt": "MDA-037/MDA-037_pt.nii.gz",
+            "seg": "MDA-037/MDA-037_gt.nii.gz"
+        },
+        {
+            "id": "MDA-166",
+            "fold": 2,
+            "ct": "MDA-166/MDA-166_ct.nii.gz",
+            "pt": "MDA-166/MDA-166_pt.nii.gz",
+            "seg": "MDA-166/MDA-166_gt.nii.gz"
+        },
+        {
+            "id": "MDA-082",
+            "fold": 2,
+            "ct": "MDA-082/MDA-082_ct.nii.gz",
+            "pt": "MDA-082/MDA-082_pt.nii.gz",
+            "seg": "MDA-082/MDA-082_gt.nii.gz"
+        },
+        {
+            "id": "MDA-032",
+            "fold": 2,
+            "ct": "MDA-032/MDA-032_ct.nii.gz",
+            "pt": "MDA-032/MDA-032_pt.nii.gz",
+            "seg": "MDA-032/MDA-032_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-032",
+            "fold": 2,
+            "ct": "HGJ-032/HGJ-032_ct.nii.gz",
+            "pt": "HGJ-032/HGJ-032_pt.nii.gz",
+            "seg": "HGJ-032/HGJ-032_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-073",
+            "fold": 2,
+            "ct": "CHUS-073/CHUS-073_ct.nii.gz",
+            "pt": "CHUS-073/CHUS-073_pt.nii.gz",
+            "seg": "CHUS-073/CHUS-073_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-055",
+            "fold": 2,
+            "ct": "CHUS-055/CHUS-055_ct.nii.gz",
+            "pt": "CHUS-055/CHUS-055_pt.nii.gz",
+            "seg": "CHUS-055/CHUS-055_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-015",
+            "fold": 2,
+            "ct": "CHUV-015/CHUV-015_ct.nii.gz",
+            "pt": "CHUV-015/CHUV-015_pt.nii.gz",
+            "seg": "CHUV-015/CHUV-015_gt.nii.gz"
+        },
+        {
+            "id": "MDA-137",
+            "fold": 2,
+            "ct": "MDA-137/MDA-137_ct.nii.gz",
+            "pt": "MDA-137/MDA-137_pt.nii.gz",
+            "seg": "MDA-137/MDA-137_gt.nii.gz"
+        },
+        {
+            "id": "MDA-138",
+            "fold": 2,
+            "ct": "MDA-138/MDA-138_ct.nii.gz",
+            "pt": "MDA-138/MDA-138_pt.nii.gz",
+            "seg": "MDA-138/MDA-138_gt.nii.gz"
+        },
+        {
+            "id": "MDA-139",
+            "fold": 2,
+            "ct": "MDA-139/MDA-139_ct.nii.gz",
+            "pt": "MDA-139/MDA-139_pt.nii.gz",
+            "seg": "MDA-139/MDA-139_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-027",
+            "fold": 2,
+            "ct": "CHUP-027/CHUP-027_ct.nii.gz",
+            "pt": "CHUP-027/CHUP-027_pt.nii.gz",
+            "seg": "CHUP-027/CHUP-027_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-066",
+            "fold": 2,
+            "ct": "CHUS-066/CHUS-066_ct.nii.gz",
+            "pt": "CHUS-066/CHUS-066_pt.nii.gz",
+            "seg": "CHUS-066/CHUS-066_gt.nii.gz"
+        },
+        {
+            "id": "MDA-045",
+            "fold": 2,
+            "ct": "MDA-045/MDA-045_ct.nii.gz",
+            "pt": "MDA-045/MDA-045_pt.nii.gz",
+            "seg": "MDA-045/MDA-045_gt.nii.gz"
+        },
+        {
+            "id": "MDA-135",
+            "fold": 2,
+            "ct": "MDA-135/MDA-135_ct.nii.gz",
+            "pt": "MDA-135/MDA-135_pt.nii.gz",
+            "seg": "MDA-135/MDA-135_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-008",
+            "fold": 2,
+            "ct": "HGJ-008/HGJ-008_ct.nii.gz",
+            "pt": "HGJ-008/HGJ-008_pt.nii.gz",
+            "seg": "HGJ-008/HGJ-008_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-003",
+            "fold": 2,
+            "ct": "CHUS-003/CHUS-003_ct.nii.gz",
+            "pt": "CHUS-003/CHUS-003_pt.nii.gz",
+            "seg": "CHUS-003/CHUS-003_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-073",
+            "fold": 2,
+            "ct": "HGJ-073/HGJ-073_ct.nii.gz",
+            "pt": "HGJ-073/HGJ-073_pt.nii.gz",
+            "seg": "HGJ-073/HGJ-073_gt.nii.gz"
+        },
+        {
+            "id": "MDA-144",
+            "fold": 2,
+            "ct": "MDA-144/MDA-144_ct.nii.gz",
+            "pt": "MDA-144/MDA-144_pt.nii.gz",
+            "seg": "MDA-144/MDA-144_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-026",
+            "fold": 2,
+            "ct": "HGJ-026/HGJ-026_ct.nii.gz",
+            "pt": "HGJ-026/HGJ-026_pt.nii.gz",
+            "seg": "HGJ-026/HGJ-026_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-088",
+            "fold": 2,
+            "ct": "CHUS-088/CHUS-088_ct.nii.gz",
+            "pt": "CHUS-088/CHUS-088_pt.nii.gz",
+            "seg": "CHUS-088/CHUS-088_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-095",
+            "fold": 2,
+            "ct": "CHUS-095/CHUS-095_ct.nii.gz",
+            "pt": "CHUS-095/CHUS-095_pt.nii.gz",
+            "seg": "CHUS-095/CHUS-095_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-047",
+            "fold": 2,
+            "ct": "CHUV-047/CHUV-047_ct.nii.gz",
+            "pt": "CHUV-047/CHUV-047_pt.nii.gz",
+            "seg": "CHUV-047/CHUV-047_gt.nii.gz"
+        },
+        {
+            "id": "MDA-040",
+            "fold": 2,
+            "ct": "MDA-040/MDA-040_ct.nii.gz",
+            "pt": "MDA-040/MDA-040_pt.nii.gz",
+            "seg": "MDA-040/MDA-040_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-085",
+            "fold": 2,
+            "ct": "CHUS-085/CHUS-085_ct.nii.gz",
+            "pt": "CHUS-085/CHUS-085_pt.nii.gz",
+            "seg": "CHUS-085/CHUS-085_gt.nii.gz"
+        },
+        {
+            "id": "MDA-020",
+            "fold": 2,
+            "ct": "MDA-020/MDA-020_ct.nii.gz",
+            "pt": "MDA-020/MDA-020_pt.nii.gz",
+            "seg": "MDA-020/MDA-020_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-055",
+            "fold": 2,
+            "ct": "CHUM-055/CHUM-055_ct.nii.gz",
+            "pt": "CHUM-055/CHUM-055_pt.nii.gz",
+            "seg": "CHUM-055/CHUM-055_gt.nii.gz"
+        },
+        {
+            "id": "MDA-190",
+            "fold": 2,
+            "ct": "MDA-190/MDA-190_ct.nii.gz",
+            "pt": "MDA-190/MDA-190_pt.nii.gz",
+            "seg": "MDA-190/MDA-190_gt.nii.gz"
+        },
+        {
+            "id": "MDA-084",
+            "fold": 2,
+            "ct": "MDA-084/MDA-084_ct.nii.gz",
+            "pt": "MDA-084/MDA-084_pt.nii.gz",
+            "seg": "MDA-084/MDA-084_gt.nii.gz"
+        },
+        {
+            "id": "MDA-131",
+            "fold": 2,
+            "ct": "MDA-131/MDA-131_ct.nii.gz",
+            "pt": "MDA-131/MDA-131_pt.nii.gz",
+            "seg": "MDA-131/MDA-131_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-037",
+            "fold": 2,
+            "ct": "CHUP-037/CHUP-037_ct.nii.gz",
+            "pt": "CHUP-037/CHUP-037_pt.nii.gz",
+            "seg": "CHUP-037/CHUP-037_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-052",
+            "fold": 2,
+            "ct": "CHUV-052/CHUV-052_ct.nii.gz",
+            "pt": "CHUV-052/CHUV-052_pt.nii.gz",
+            "seg": "CHUV-052/CHUV-052_gt.nii.gz"
+        },
+        {
+            "id": "MDA-133",
+            "fold": 2,
+            "ct": "MDA-133/MDA-133_ct.nii.gz",
+            "pt": "MDA-133/MDA-133_pt.nii.gz",
+            "seg": "MDA-133/MDA-133_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-061",
+            "fold": 2,
+            "ct": "CHUS-061/CHUS-061_ct.nii.gz",
+            "pt": "CHUS-061/CHUS-061_pt.nii.gz",
+            "seg": "CHUS-061/CHUS-061_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-044",
+            "fold": 2,
+            "ct": "CHUP-044/CHUP-044_ct.nii.gz",
+            "pt": "CHUP-044/CHUP-044_pt.nii.gz",
+            "seg": "CHUP-044/CHUP-044_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-069",
+            "fold": 2,
+            "ct": "HGJ-069/HGJ-069_ct.nii.gz",
+            "pt": "HGJ-069/HGJ-069_pt.nii.gz",
+            "seg": "HGJ-069/HGJ-069_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-002",
+            "fold": 2,
+            "ct": "CHUP-002/CHUP-002_ct.nii.gz",
+            "pt": "CHUP-002/CHUP-002_pt.nii.gz",
+            "seg": "CHUP-002/CHUP-002_gt.nii.gz"
+        },
+        {
+            "id": "MDA-047",
+            "fold": 2,
+            "ct": "MDA-047/MDA-047_ct.nii.gz",
+            "pt": "MDA-047/MDA-047_pt.nii.gz",
+            "seg": "MDA-047/MDA-047_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-086",
+            "fold": 2,
+            "ct": "CHUS-086/CHUS-086_ct.nii.gz",
+            "pt": "CHUS-086/CHUS-086_pt.nii.gz",
+            "seg": "CHUS-086/CHUS-086_gt.nii.gz"
+        },
+        {
+            "id": "MDA-185",
+            "fold": 2,
+            "ct": "MDA-185/MDA-185_ct.nii.gz",
+            "pt": "MDA-185/MDA-185_pt.nii.gz",
+            "seg": "MDA-185/MDA-185_gt.nii.gz"
+        },
+        {
+            "id": "HMR-013",
+            "fold": 2,
+            "ct": "HMR-013/HMR-013_ct.nii.gz",
+            "pt": "HMR-013/HMR-013_pt.nii.gz",
+            "seg": "HMR-013/HMR-013_gt.nii.gz"
+        },
+        {
+            "id": "MDA-116",
+            "fold": 2,
+            "ct": "MDA-116/MDA-116_ct.nii.gz",
+            "pt": "MDA-116/MDA-116_pt.nii.gz",
+            "seg": "MDA-116/MDA-116_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-064",
+            "fold": 2,
+            "ct": "CHUM-064/CHUM-064_ct.nii.gz",
+            "pt": "CHUM-064/CHUM-064_pt.nii.gz",
+            "seg": "CHUM-064/CHUM-064_gt.nii.gz"
+        },
+        {
+            "id": "MDA-087",
+            "fold": 2,
+            "ct": "MDA-087/MDA-087_ct.nii.gz",
+            "pt": "MDA-087/MDA-087_pt.nii.gz",
+            "seg": "MDA-087/MDA-087_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-041",
+            "fold": 2,
+            "ct": "CHUS-041/CHUS-041_ct.nii.gz",
+            "pt": "CHUS-041/CHUS-041_pt.nii.gz",
+            "seg": "CHUS-041/CHUS-041_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-030",
+            "fold": 2,
+            "ct": "CHUV-030/CHUV-030_ct.nii.gz",
+            "pt": "CHUV-030/CHUV-030_pt.nii.gz",
+            "seg": "CHUV-030/CHUV-030_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-096",
+            "fold": 2,
+            "ct": "CHUS-096/CHUS-096_ct.nii.gz",
+            "pt": "CHUS-096/CHUS-096_pt.nii.gz",
+            "seg": "CHUS-096/CHUS-096_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-053",
+            "fold": 2,
+            "ct": "CHUM-053/CHUM-053_ct.nii.gz",
+            "pt": "CHUM-053/CHUM-053_pt.nii.gz",
+            "seg": "CHUM-053/CHUM-053_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-034",
+            "fold": 2,
+            "ct": "CHUM-034/CHUM-034_ct.nii.gz",
+            "pt": "CHUM-034/CHUM-034_pt.nii.gz",
+            "seg": "CHUM-034/CHUM-034_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-068",
+            "fold": 2,
+            "ct": "CHUS-068/CHUS-068_ct.nii.gz",
+            "pt": "CHUS-068/CHUS-068_pt.nii.gz",
+            "seg": "CHUS-068/CHUS-068_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-053",
+            "fold": 2,
+            "ct": "CHUV-053/CHUV-053_ct.nii.gz",
+            "pt": "CHUV-053/CHUV-053_pt.nii.gz",
+            "seg": "CHUV-053/CHUV-053_gt.nii.gz"
+        },
+        {
+            "id": "MDA-031",
+            "fold": 2,
+            "ct": "MDA-031/MDA-031_ct.nii.gz",
+            "pt": "MDA-031/MDA-031_pt.nii.gz",
+            "seg": "MDA-031/MDA-031_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-098",
+            "fold": 2,
+            "ct": "CHUS-098/CHUS-098_ct.nii.gz",
+            "pt": "CHUS-098/CHUS-098_pt.nii.gz",
+            "seg": "CHUS-098/CHUS-098_gt.nii.gz"
+        },
+        {
+            "id": "MDA-039",
+            "fold": 2,
+            "ct": "MDA-039/MDA-039_ct.nii.gz",
+            "pt": "MDA-039/MDA-039_pt.nii.gz",
+            "seg": "MDA-039/MDA-039_gt.nii.gz"
+        },
+        {
+            "id": "MDA-156",
+            "fold": 2,
+            "ct": "MDA-156/MDA-156_ct.nii.gz",
+            "pt": "MDA-156/MDA-156_pt.nii.gz",
+            "seg": "MDA-156/MDA-156_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-050",
+            "fold": 2,
+            "ct": "CHUS-050/CHUS-050_ct.nii.gz",
+            "pt": "CHUS-050/CHUS-050_pt.nii.gz",
+            "seg": "CHUS-050/CHUS-050_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-033",
+            "fold": 2,
+            "ct": "CHUS-033/CHUS-033_ct.nii.gz",
+            "pt": "CHUS-033/CHUS-033_pt.nii.gz",
+            "seg": "CHUS-033/CHUS-033_gt.nii.gz"
+        },
+        {
+            "id": "MDA-069",
+            "fold": 2,
+            "ct": "MDA-069/MDA-069_ct.nii.gz",
+            "pt": "MDA-069/MDA-069_pt.nii.gz",
+            "seg": "MDA-069/MDA-069_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-035",
+            "fold": 2,
+            "ct": "CHUM-035/CHUM-035_ct.nii.gz",
+            "pt": "CHUM-035/CHUM-035_pt.nii.gz",
+            "seg": "CHUM-035/CHUM-035_gt.nii.gz"
+        },
+        {
+            "id": "MDA-109",
+            "fold": 2,
+            "ct": "MDA-109/MDA-109_ct.nii.gz",
+            "pt": "MDA-109/MDA-109_pt.nii.gz",
+            "seg": "MDA-109/MDA-109_gt.nii.gz"
+        },
+        {
+            "id": "MDA-158",
+            "fold": 2,
+            "ct": "MDA-158/MDA-158_ct.nii.gz",
+            "pt": "MDA-158/MDA-158_pt.nii.gz",
+            "seg": "MDA-158/MDA-158_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-062",
+            "fold": 2,
+            "ct": "CHUM-062/CHUM-062_ct.nii.gz",
+            "pt": "CHUM-062/CHUM-062_pt.nii.gz",
+            "seg": "CHUM-062/CHUM-062_gt.nii.gz"
+        },
+        {
+            "id": "MDA-176",
+            "fold": 2,
+            "ct": "MDA-176/MDA-176_ct.nii.gz",
+            "pt": "MDA-176/MDA-176_pt.nii.gz",
+            "seg": "MDA-176/MDA-176_gt.nii.gz"
+        },
+        {
+            "id": "MDA-064",
+            "fold": 2,
+            "ct": "MDA-064/MDA-064_ct.nii.gz",
+            "pt": "MDA-064/MDA-064_pt.nii.gz",
+            "seg": "MDA-064/MDA-064_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-065",
+            "fold": 2,
+            "ct": "HGJ-065/HGJ-065_ct.nii.gz",
+            "pt": "HGJ-065/HGJ-065_pt.nii.gz",
+            "seg": "HGJ-065/HGJ-065_gt.nii.gz"
+        },
+        {
+            "id": "MDA-184",
+            "fold": 2,
+            "ct": "MDA-184/MDA-184_ct.nii.gz",
+            "pt": "MDA-184/MDA-184_pt.nii.gz",
+            "seg": "MDA-184/MDA-184_gt.nii.gz"
+        },
+        {
+            "id": "MDA-015",
+            "fold": 2,
+            "ct": "MDA-015/MDA-015_ct.nii.gz",
+            "pt": "MDA-015/MDA-015_pt.nii.gz",
+            "seg": "MDA-015/MDA-015_gt.nii.gz"
+        },
+        {
+            "id": "MDA-153",
+            "fold": 2,
+            "ct": "MDA-153/MDA-153_ct.nii.gz",
+            "pt": "MDA-153/MDA-153_pt.nii.gz",
+            "seg": "MDA-153/MDA-153_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-022",
+            "fold": 2,
+            "ct": "CHUV-022/CHUV-022_ct.nii.gz",
+            "pt": "CHUV-022/CHUV-022_pt.nii.gz",
+            "seg": "CHUV-022/CHUV-022_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-029",
+            "fold": 2,
+            "ct": "CHUM-029/CHUM-029_ct.nii.gz",
+            "pt": "CHUM-029/CHUM-029_pt.nii.gz",
+            "seg": "CHUM-029/CHUM-029_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-063",
+            "fold": 2,
+            "ct": "CHUM-063/CHUM-063_ct.nii.gz",
+            "pt": "CHUM-063/CHUM-063_pt.nii.gz",
+            "seg": "CHUM-063/CHUM-063_gt.nii.gz"
+        },
+        {
+            "id": "MDA-022",
+            "fold": 2,
+            "ct": "MDA-022/MDA-022_ct.nii.gz",
+            "pt": "MDA-022/MDA-022_pt.nii.gz",
+            "seg": "MDA-022/MDA-022_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-006",
+            "fold": 2,
+            "ct": "CHUS-006/CHUS-006_ct.nii.gz",
+            "pt": "CHUS-006/CHUS-006_pt.nii.gz",
+            "seg": "CHUS-006/CHUS-006_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-008",
+            "fold": 2,
+            "ct": "CHUM-008/CHUM-008_ct.nii.gz",
+            "pt": "CHUM-008/CHUM-008_pt.nii.gz",
+            "seg": "CHUM-008/CHUM-008_gt.nii.gz"
+        },
+        {
+            "id": "MDA-063",
+            "fold": 2,
+            "ct": "MDA-063/MDA-063_ct.nii.gz",
+            "pt": "MDA-063/MDA-063_pt.nii.gz",
+            "seg": "MDA-063/MDA-063_gt.nii.gz"
+        },
+        {
+            "id": "MDA-163",
+            "fold": 2,
+            "ct": "MDA-163/MDA-163_ct.nii.gz",
+            "pt": "MDA-163/MDA-163_pt.nii.gz",
+            "seg": "MDA-163/MDA-163_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-033",
+            "fold": 2,
+            "ct": "CHUM-033/CHUM-033_ct.nii.gz",
+            "pt": "CHUM-033/CHUM-033_pt.nii.gz",
+            "seg": "CHUM-033/CHUM-033_gt.nii.gz"
+        },
+        {
+            "id": "MDA-034",
+            "fold": 3,
+            "ct": "MDA-034/MDA-034_ct.nii.gz",
+            "pt": "MDA-034/MDA-034_pt.nii.gz",
+            "seg": "MDA-034/MDA-034_gt.nii.gz"
+        },
+        {
+            "id": "MDA-052",
+            "fold": 3,
+            "ct": "MDA-052/MDA-052_ct.nii.gz",
+            "pt": "MDA-052/MDA-052_pt.nii.gz",
+            "seg": "MDA-052/MDA-052_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-007",
+            "fold": 3,
+            "ct": "CHUM-007/CHUM-007_ct.nii.gz",
+            "pt": "CHUM-007/CHUM-007_pt.nii.gz",
+            "seg": "CHUM-007/CHUM-007_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-050",
+            "fold": 3,
+            "ct": "CHUP-050/CHUP-050_ct.nii.gz",
+            "pt": "CHUP-050/CHUP-050_pt.nii.gz",
+            "seg": "CHUP-050/CHUP-050_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-023",
+            "fold": 3,
+            "ct": "CHUM-023/CHUM-023_ct.nii.gz",
+            "pt": "CHUM-023/CHUM-023_pt.nii.gz",
+            "seg": "CHUM-023/CHUM-023_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-043",
+            "fold": 3,
+            "ct": "CHUM-043/CHUM-043_ct.nii.gz",
+            "pt": "CHUM-043/CHUM-043_pt.nii.gz",
+            "seg": "CHUM-043/CHUM-043_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-060",
+            "fold": 3,
+            "ct": "CHUS-060/CHUS-060_ct.nii.gz",
+            "pt": "CHUS-060/CHUS-060_pt.nii.gz",
+            "seg": "CHUS-060/CHUS-060_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-020",
+            "fold": 3,
+            "ct": "CHUV-020/CHUV-020_ct.nii.gz",
+            "pt": "CHUV-020/CHUV-020_pt.nii.gz",
+            "seg": "CHUV-020/CHUV-020_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-001",
+            "fold": 3,
+            "ct": "CHUV-001/CHUV-001_ct.nii.gz",
+            "pt": "CHUV-001/CHUV-001_pt.nii.gz",
+            "seg": "CHUV-001/CHUV-001_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-001",
+            "fold": 3,
+            "ct": "CHUM-001/CHUM-001_ct.nii.gz",
+            "pt": "CHUM-001/CHUM-001_pt.nii.gz",
+            "seg": "CHUM-001/CHUM-001_gt.nii.gz"
+        },
+        {
+            "id": "MDA-076",
+            "fold": 3,
+            "ct": "MDA-076/MDA-076_ct.nii.gz",
+            "pt": "MDA-076/MDA-076_pt.nii.gz",
+            "seg": "MDA-076/MDA-076_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-028",
+            "fold": 3,
+            "ct": "CHUV-028/CHUV-028_ct.nii.gz",
+            "pt": "CHUV-028/CHUV-028_pt.nii.gz",
+            "seg": "CHUV-028/CHUV-028_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-027",
+            "fold": 3,
+            "ct": "CHUM-027/CHUM-027_ct.nii.gz",
+            "pt": "CHUM-027/CHUM-027_pt.nii.gz",
+            "seg": "CHUM-027/CHUM-027_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-071",
+            "fold": 3,
+            "ct": "CHUP-071/CHUP-071_ct.nii.gz",
+            "pt": "CHUP-071/CHUP-071_pt.nii.gz",
+            "seg": "CHUP-071/CHUP-071_gt.nii.gz"
+        },
+        {
+            "id": "MDA-107",
+            "fold": 3,
+            "ct": "MDA-107/MDA-107_ct.nii.gz",
+            "pt": "MDA-107/MDA-107_pt.nii.gz",
+            "seg": "MDA-107/MDA-107_gt.nii.gz"
+        },
+        {
+            "id": "MDA-044",
+            "fold": 3,
+            "ct": "MDA-044/MDA-044_ct.nii.gz",
+            "pt": "MDA-044/MDA-044_pt.nii.gz",
+            "seg": "MDA-044/MDA-044_gt.nii.gz"
+        },
+        {
+            "id": "MDA-055",
+            "fold": 3,
+            "ct": "MDA-055/MDA-055_ct.nii.gz",
+            "pt": "MDA-055/MDA-055_pt.nii.gz",
+            "seg": "MDA-055/MDA-055_gt.nii.gz"
+        },
+        {
+            "id": "MDA-057",
+            "fold": 3,
+            "ct": "MDA-057/MDA-057_ct.nii.gz",
+            "pt": "MDA-057/MDA-057_pt.nii.gz",
+            "seg": "MDA-057/MDA-057_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-067",
+            "fold": 3,
+            "ct": "CHUS-067/CHUS-067_ct.nii.gz",
+            "pt": "CHUS-067/CHUS-067_pt.nii.gz",
+            "seg": "CHUS-067/CHUS-067_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-083",
+            "fold": 3,
+            "ct": "CHUS-083/CHUS-083_ct.nii.gz",
+            "pt": "CHUS-083/CHUS-083_pt.nii.gz",
+            "seg": "CHUS-083/CHUS-083_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-036",
+            "fold": 3,
+            "ct": "CHUV-036/CHUV-036_ct.nii.gz",
+            "pt": "CHUV-036/CHUV-036_pt.nii.gz",
+            "seg": "CHUV-036/CHUV-036_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-020",
+            "fold": 3,
+            "ct": "CHUS-020/CHUS-020_ct.nii.gz",
+            "pt": "CHUS-020/CHUS-020_pt.nii.gz",
+            "seg": "CHUS-020/CHUS-020_gt.nii.gz"
+        },
+        {
+            "id": "MDA-197",
+            "fold": 3,
+            "ct": "MDA-197/MDA-197_ct.nii.gz",
+            "pt": "MDA-197/MDA-197_pt.nii.gz",
+            "seg": "MDA-197/MDA-197_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-003",
+            "fold": 3,
+            "ct": "CHUP-003/CHUP-003_ct.nii.gz",
+            "pt": "CHUP-003/CHUP-003_pt.nii.gz",
+            "seg": "CHUP-003/CHUP-003_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-094",
+            "fold": 3,
+            "ct": "CHUS-094/CHUS-094_ct.nii.gz",
+            "pt": "CHUS-094/CHUS-094_pt.nii.gz",
+            "seg": "CHUS-094/CHUS-094_gt.nii.gz"
+        },
+        {
+            "id": "MDA-172",
+            "fold": 3,
+            "ct": "MDA-172/MDA-172_ct.nii.gz",
+            "pt": "MDA-172/MDA-172_pt.nii.gz",
+            "seg": "MDA-172/MDA-172_gt.nii.gz"
+        },
+        {
+            "id": "MDA-154",
+            "fold": 3,
+            "ct": "MDA-154/MDA-154_ct.nii.gz",
+            "pt": "MDA-154/MDA-154_pt.nii.gz",
+            "seg": "MDA-154/MDA-154_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-057",
+            "fold": 3,
+            "ct": "CHUP-057/CHUP-057_ct.nii.gz",
+            "pt": "CHUP-057/CHUP-057_pt.nii.gz",
+            "seg": "CHUP-057/CHUP-057_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-016",
+            "fold": 3,
+            "ct": "CHUP-016/CHUP-016_ct.nii.gz",
+            "pt": "CHUP-016/CHUP-016_pt.nii.gz",
+            "seg": "CHUP-016/CHUP-016_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-062",
+            "fold": 3,
+            "ct": "HGJ-062/HGJ-062_ct.nii.gz",
+            "pt": "HGJ-062/HGJ-062_pt.nii.gz",
+            "seg": "HGJ-062/HGJ-062_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-048",
+            "fold": 3,
+            "ct": "CHUM-048/CHUM-048_ct.nii.gz",
+            "pt": "CHUM-048/CHUM-048_pt.nii.gz",
+            "seg": "CHUM-048/CHUM-048_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-042",
+            "fold": 3,
+            "ct": "CHUM-042/CHUM-042_ct.nii.gz",
+            "pt": "CHUM-042/CHUM-042_pt.nii.gz",
+            "seg": "CHUM-042/CHUM-042_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-008",
+            "fold": 3,
+            "ct": "CHUP-008/CHUP-008_ct.nii.gz",
+            "pt": "CHUP-008/CHUP-008_pt.nii.gz",
+            "seg": "CHUP-008/CHUP-008_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-041",
+            "fold": 3,
+            "ct": "CHUP-041/CHUP-041_ct.nii.gz",
+            "pt": "CHUP-041/CHUP-041_pt.nii.gz",
+            "seg": "CHUP-041/CHUP-041_gt.nii.gz"
+        },
+        {
+            "id": "MDA-097",
+            "fold": 3,
+            "ct": "MDA-097/MDA-097_ct.nii.gz",
+            "pt": "MDA-097/MDA-097_pt.nii.gz",
+            "seg": "MDA-097/MDA-097_gt.nii.gz"
+        },
+        {
+            "id": "MDA-124",
+            "fold": 3,
+            "ct": "MDA-124/MDA-124_ct.nii.gz",
+            "pt": "MDA-124/MDA-124_pt.nii.gz",
+            "seg": "MDA-124/MDA-124_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-010",
+            "fold": 3,
+            "ct": "HGJ-010/HGJ-010_ct.nii.gz",
+            "pt": "HGJ-010/HGJ-010_pt.nii.gz",
+            "seg": "HGJ-010/HGJ-010_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-097",
+            "fold": 3,
+            "ct": "CHUS-097/CHUS-097_ct.nii.gz",
+            "pt": "CHUS-097/CHUS-097_pt.nii.gz",
+            "seg": "CHUS-097/CHUS-097_gt.nii.gz"
+        },
+        {
+            "id": "MDA-148",
+            "fold": 3,
+            "ct": "MDA-148/MDA-148_ct.nii.gz",
+            "pt": "MDA-148/MDA-148_pt.nii.gz",
+            "seg": "MDA-148/MDA-148_gt.nii.gz"
+        },
+        {
+            "id": "MDA-029",
+            "fold": 3,
+            "ct": "MDA-029/MDA-029_ct.nii.gz",
+            "pt": "MDA-029/MDA-029_pt.nii.gz",
+            "seg": "MDA-029/MDA-029_gt.nii.gz"
+        },
+        {
+            "id": "MDA-003",
+            "fold": 3,
+            "ct": "MDA-003/MDA-003_ct.nii.gz",
+            "pt": "MDA-003/MDA-003_pt.nii.gz",
+            "seg": "MDA-003/MDA-003_gt.nii.gz"
+        },
+        {
+            "id": "MDA-060",
+            "fold": 3,
+            "ct": "MDA-060/MDA-060_ct.nii.gz",
+            "pt": "MDA-060/MDA-060_pt.nii.gz",
+            "seg": "MDA-060/MDA-060_gt.nii.gz"
+        },
+        {
+            "id": "MDA-025",
+            "fold": 3,
+            "ct": "MDA-025/MDA-025_ct.nii.gz",
+            "pt": "MDA-025/MDA-025_pt.nii.gz",
+            "seg": "MDA-025/MDA-025_gt.nii.gz"
+        },
+        {
+            "id": "HMR-028",
+            "fold": 3,
+            "ct": "HMR-028/HMR-028_ct.nii.gz",
+            "pt": "HMR-028/HMR-028_pt.nii.gz",
+            "seg": "HMR-028/HMR-028_gt.nii.gz"
+        },
+        {
+            "id": "MDA-068",
+            "fold": 3,
+            "ct": "MDA-068/MDA-068_ct.nii.gz",
+            "pt": "MDA-068/MDA-068_pt.nii.gz",
+            "seg": "MDA-068/MDA-068_gt.nii.gz"
+        },
+        {
+            "id": "MDA-193",
+            "fold": 3,
+            "ct": "MDA-193/MDA-193_ct.nii.gz",
+            "pt": "MDA-193/MDA-193_pt.nii.gz",
+            "seg": "MDA-193/MDA-193_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-029",
+            "fold": 3,
+            "ct": "HGJ-029/HGJ-029_ct.nii.gz",
+            "pt": "HGJ-029/HGJ-029_pt.nii.gz",
+            "seg": "HGJ-029/HGJ-029_gt.nii.gz"
+        },
+        {
+            "id": "MDA-010",
+            "fold": 3,
+            "ct": "MDA-010/MDA-010_ct.nii.gz",
+            "pt": "MDA-010/MDA-010_pt.nii.gz",
+            "seg": "MDA-010/MDA-010_gt.nii.gz"
+        },
+        {
+            "id": "MDA-033",
+            "fold": 3,
+            "ct": "MDA-033/MDA-033_ct.nii.gz",
+            "pt": "MDA-033/MDA-033_pt.nii.gz",
+            "seg": "MDA-033/MDA-033_gt.nii.gz"
+        },
+        {
+            "id": "MDA-118",
+            "fold": 3,
+            "ct": "MDA-118/MDA-118_ct.nii.gz",
+            "pt": "MDA-118/MDA-118_pt.nii.gz",
+            "seg": "MDA-118/MDA-118_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-031",
+            "fold": 3,
+            "ct": "HGJ-031/HGJ-031_ct.nii.gz",
+            "pt": "HGJ-031/HGJ-031_pt.nii.gz",
+            "seg": "HGJ-031/HGJ-031_gt.nii.gz"
+        },
+        {
+            "id": "MDA-167",
+            "fold": 3,
+            "ct": "MDA-167/MDA-167_ct.nii.gz",
+            "pt": "MDA-167/MDA-167_pt.nii.gz",
+            "seg": "MDA-167/MDA-167_gt.nii.gz"
+        },
+        {
+            "id": "MDA-187",
+            "fold": 3,
+            "ct": "MDA-187/MDA-187_ct.nii.gz",
+            "pt": "MDA-187/MDA-187_pt.nii.gz",
+            "seg": "MDA-187/MDA-187_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-030",
+            "fold": 3,
+            "ct": "HGJ-030/HGJ-030_ct.nii.gz",
+            "pt": "HGJ-030/HGJ-030_pt.nii.gz",
+            "seg": "HGJ-030/HGJ-030_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-072",
+            "fold": 3,
+            "ct": "CHUP-072/CHUP-072_ct.nii.gz",
+            "pt": "CHUP-072/CHUP-072_pt.nii.gz",
+            "seg": "CHUP-072/CHUP-072_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-078",
+            "fold": 3,
+            "ct": "HGJ-078/HGJ-078_ct.nii.gz",
+            "pt": "HGJ-078/HGJ-078_pt.nii.gz",
+            "seg": "HGJ-078/HGJ-078_gt.nii.gz"
+        },
+        {
+            "id": "MDA-157",
+            "fold": 3,
+            "ct": "MDA-157/MDA-157_ct.nii.gz",
+            "pt": "MDA-157/MDA-157_pt.nii.gz",
+            "seg": "MDA-157/MDA-157_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-023",
+            "fold": 3,
+            "ct": "CHUP-023/CHUP-023_ct.nii.gz",
+            "pt": "CHUP-023/CHUP-023_pt.nii.gz",
+            "seg": "CHUP-023/CHUP-023_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-026",
+            "fold": 3,
+            "ct": "CHUP-026/CHUP-026_ct.nii.gz",
+            "pt": "CHUP-026/CHUP-026_pt.nii.gz",
+            "seg": "CHUP-026/CHUP-026_gt.nii.gz"
+        },
+        {
+            "id": "MDA-092",
+            "fold": 3,
+            "ct": "MDA-092/MDA-092_ct.nii.gz",
+            "pt": "MDA-092/MDA-092_pt.nii.gz",
+            "seg": "MDA-092/MDA-092_gt.nii.gz"
+        },
+        {
+            "id": "HMR-012",
+            "fold": 3,
+            "ct": "HMR-012/HMR-012_ct.nii.gz",
+            "pt": "HMR-012/HMR-012_pt.nii.gz",
+            "seg": "HMR-012/HMR-012_gt.nii.gz"
+        },
+        {
+            "id": "MDA-014",
+            "fold": 3,
+            "ct": "MDA-014/MDA-014_ct.nii.gz",
+            "pt": "MDA-014/MDA-014_pt.nii.gz",
+            "seg": "MDA-014/MDA-014_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-064",
+            "fold": 3,
+            "ct": "CHUP-064/CHUP-064_ct.nii.gz",
+            "pt": "CHUP-064/CHUP-064_pt.nii.gz",
+            "seg": "CHUP-064/CHUP-064_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-050",
+            "fold": 3,
+            "ct": "CHUV-050/CHUV-050_ct.nii.gz",
+            "pt": "CHUV-050/CHUV-050_pt.nii.gz",
+            "seg": "CHUV-050/CHUV-050_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-006",
+            "fold": 3,
+            "ct": "CHUM-006/CHUM-006_ct.nii.gz",
+            "pt": "CHUM-006/CHUM-006_pt.nii.gz",
+            "seg": "CHUM-006/CHUM-006_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-057",
+            "fold": 3,
+            "ct": "HGJ-057/HGJ-057_ct.nii.gz",
+            "pt": "HGJ-057/HGJ-057_pt.nii.gz",
+            "seg": "HGJ-057/HGJ-057_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-071",
+            "fold": 3,
+            "ct": "HGJ-071/HGJ-071_ct.nii.gz",
+            "pt": "HGJ-071/HGJ-071_pt.nii.gz",
+            "seg": "HGJ-071/HGJ-071_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-052",
+            "fold": 3,
+            "ct": "HGJ-052/HGJ-052_ct.nii.gz",
+            "pt": "HGJ-052/HGJ-052_pt.nii.gz",
+            "seg": "HGJ-052/HGJ-052_gt.nii.gz"
+        },
+        {
+            "id": "MDA-201",
+            "fold": 3,
+            "ct": "MDA-201/MDA-201_ct.nii.gz",
+            "pt": "MDA-201/MDA-201_pt.nii.gz",
+            "seg": "MDA-201/MDA-201_gt.nii.gz"
+        },
+        {
+            "id": "MDA-005",
+            "fold": 3,
+            "ct": "MDA-005/MDA-005_ct.nii.gz",
+            "pt": "MDA-005/MDA-005_pt.nii.gz",
+            "seg": "MDA-005/MDA-005_gt.nii.gz"
+        },
+        {
+            "id": "MDA-043",
+            "fold": 3,
+            "ct": "MDA-043/MDA-043_ct.nii.gz",
+            "pt": "MDA-043/MDA-043_pt.nii.gz",
+            "seg": "MDA-043/MDA-043_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-100",
+            "fold": 3,
+            "ct": "CHUS-100/CHUS-100_ct.nii.gz",
+            "pt": "CHUS-100/CHUS-100_pt.nii.gz",
+            "seg": "CHUS-100/CHUS-100_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-053",
+            "fold": 3,
+            "ct": "CHUP-053/CHUP-053_ct.nii.gz",
+            "pt": "CHUP-053/CHUP-053_pt.nii.gz",
+            "seg": "CHUP-053/CHUP-053_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-010",
+            "fold": 3,
+            "ct": "CHUM-010/CHUM-010_ct.nii.gz",
+            "pt": "CHUM-010/CHUM-010_pt.nii.gz",
+            "seg": "CHUM-010/CHUM-010_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-058",
+            "fold": 3,
+            "ct": "CHUM-058/CHUM-058_ct.nii.gz",
+            "pt": "CHUM-058/CHUM-058_pt.nii.gz",
+            "seg": "CHUM-058/CHUM-058_gt.nii.gz"
+        },
+        {
+            "id": "MDA-001",
+            "fold": 3,
+            "ct": "MDA-001/MDA-001_ct.nii.gz",
+            "pt": "MDA-001/MDA-001_pt.nii.gz",
+            "seg": "MDA-001/MDA-001_gt.nii.gz"
+        },
+        {
+            "id": "HMR-014",
+            "fold": 3,
+            "ct": "HMR-014/HMR-014_ct.nii.gz",
+            "pt": "HMR-014/HMR-014_pt.nii.gz",
+            "seg": "HMR-014/HMR-014_gt.nii.gz"
+        },
+        {
+            "id": "MDA-061",
+            "fold": 3,
+            "ct": "MDA-061/MDA-061_ct.nii.gz",
+            "pt": "MDA-061/MDA-061_pt.nii.gz",
+            "seg": "MDA-061/MDA-061_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-012",
+            "fold": 3,
+            "ct": "CHUV-012/CHUV-012_ct.nii.gz",
+            "pt": "CHUV-012/CHUV-012_pt.nii.gz",
+            "seg": "CHUV-012/CHUV-012_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-023",
+            "fold": 3,
+            "ct": "CHUV-023/CHUV-023_ct.nii.gz",
+            "pt": "CHUV-023/CHUV-023_pt.nii.gz",
+            "seg": "CHUV-023/CHUV-023_gt.nii.gz"
+        },
+        {
+            "id": "MDA-026",
+            "fold": 3,
+            "ct": "MDA-026/MDA-026_ct.nii.gz",
+            "pt": "MDA-026/MDA-026_pt.nii.gz",
+            "seg": "MDA-026/MDA-026_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-043",
+            "fold": 3,
+            "ct": "HGJ-043/HGJ-043_ct.nii.gz",
+            "pt": "HGJ-043/HGJ-043_pt.nii.gz",
+            "seg": "HGJ-043/HGJ-043_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-061",
+            "fold": 3,
+            "ct": "CHUM-061/CHUM-061_ct.nii.gz",
+            "pt": "CHUM-061/CHUM-061_pt.nii.gz",
+            "seg": "CHUM-061/CHUM-061_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-002",
+            "fold": 3,
+            "ct": "CHUM-002/CHUM-002_ct.nii.gz",
+            "pt": "CHUM-002/CHUM-002_pt.nii.gz",
+            "seg": "CHUM-002/CHUM-002_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-044",
+            "fold": 3,
+            "ct": "CHUV-044/CHUV-044_ct.nii.gz",
+            "pt": "CHUV-044/CHUV-044_pt.nii.gz",
+            "seg": "CHUV-044/CHUV-044_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-065",
+            "fold": 3,
+            "ct": "CHUS-065/CHUS-065_ct.nii.gz",
+            "pt": "CHUS-065/CHUS-065_pt.nii.gz",
+            "seg": "CHUS-065/CHUS-065_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-019",
+            "fold": 3,
+            "ct": "CHUM-019/CHUM-019_ct.nii.gz",
+            "pt": "CHUM-019/CHUM-019_pt.nii.gz",
+            "seg": "CHUM-019/CHUM-019_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-074",
+            "fold": 3,
+            "ct": "CHUS-074/CHUS-074_ct.nii.gz",
+            "pt": "CHUS-074/CHUS-074_pt.nii.gz",
+            "seg": "CHUS-074/CHUS-074_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-081",
+            "fold": 3,
+            "ct": "HGJ-081/HGJ-081_ct.nii.gz",
+            "pt": "HGJ-081/HGJ-081_pt.nii.gz",
+            "seg": "HGJ-081/HGJ-081_gt.nii.gz"
+        },
+        {
+            "id": "MDA-070",
+            "fold": 3,
+            "ct": "MDA-070/MDA-070_ct.nii.gz",
+            "pt": "MDA-070/MDA-070_pt.nii.gz",
+            "seg": "MDA-070/MDA-070_gt.nii.gz"
+        },
+        {
+            "id": "MDA-088",
+            "fold": 3,
+            "ct": "MDA-088/MDA-088_ct.nii.gz",
+            "pt": "MDA-088/MDA-088_pt.nii.gz",
+            "seg": "MDA-088/MDA-088_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-015",
+            "fold": 3,
+            "ct": "CHUP-015/CHUP-015_ct.nii.gz",
+            "pt": "CHUP-015/CHUP-015_pt.nii.gz",
+            "seg": "CHUP-015/CHUP-015_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-080",
+            "fold": 3,
+            "ct": "CHUS-080/CHUS-080_ct.nii.gz",
+            "pt": "CHUS-080/CHUS-080_pt.nii.gz",
+            "seg": "CHUS-080/CHUS-080_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-024",
+            "fold": 3,
+            "ct": "CHUP-024/CHUP-024_ct.nii.gz",
+            "pt": "CHUP-024/CHUP-024_pt.nii.gz",
+            "seg": "CHUP-024/CHUP-024_gt.nii.gz"
+        },
+        {
+            "id": "MDA-066",
+            "fold": 3,
+            "ct": "MDA-066/MDA-066_ct.nii.gz",
+            "pt": "MDA-066/MDA-066_pt.nii.gz",
+            "seg": "MDA-066/MDA-066_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-006",
+            "fold": 3,
+            "ct": "CHUP-006/CHUP-006_ct.nii.gz",
+            "pt": "CHUP-006/CHUP-006_pt.nii.gz",
+            "seg": "CHUP-006/CHUP-006_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-013",
+            "fold": 3,
+            "ct": "CHUS-013/CHUS-013_ct.nii.gz",
+            "pt": "CHUS-013/CHUS-013_pt.nii.gz",
+            "seg": "CHUS-013/CHUS-013_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-045",
+            "fold": 3,
+            "ct": "CHUV-045/CHUV-045_ct.nii.gz",
+            "pt": "CHUV-045/CHUV-045_pt.nii.gz",
+            "seg": "CHUV-045/CHUV-045_gt.nii.gz"
+        },
+        {
+            "id": "MDA-086",
+            "fold": 3,
+            "ct": "MDA-086/MDA-086_ct.nii.gz",
+            "pt": "MDA-086/MDA-086_pt.nii.gz",
+            "seg": "MDA-086/MDA-086_gt.nii.gz"
+        },
+        {
+            "id": "MDA-041",
+            "fold": 3,
+            "ct": "MDA-041/MDA-041_ct.nii.gz",
+            "pt": "MDA-041/MDA-041_pt.nii.gz",
+            "seg": "MDA-041/MDA-041_gt.nii.gz"
+        },
+        {
+            "id": "MDA-046",
+            "fold": 3,
+            "ct": "MDA-046/MDA-046_ct.nii.gz",
+            "pt": "MDA-046/MDA-046_pt.nii.gz",
+            "seg": "MDA-046/MDA-046_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-043",
+            "fold": 3,
+            "ct": "CHUP-043/CHUP-043_ct.nii.gz",
+            "pt": "CHUP-043/CHUP-043_pt.nii.gz",
+            "seg": "CHUP-043/CHUP-043_gt.nii.gz"
+        },
+        {
+            "id": "MDA-080",
+            "fold": 3,
+            "ct": "MDA-080/MDA-080_ct.nii.gz",
+            "pt": "MDA-080/MDA-080_pt.nii.gz",
+            "seg": "MDA-080/MDA-080_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-011",
+            "fold": 3,
+            "ct": "CHUP-011/CHUP-011_ct.nii.gz",
+            "pt": "CHUP-011/CHUP-011_pt.nii.gz",
+            "seg": "CHUP-011/CHUP-011_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-087",
+            "fold": 3,
+            "ct": "CHUS-087/CHUS-087_ct.nii.gz",
+            "pt": "CHUS-087/CHUS-087_pt.nii.gz",
+            "seg": "CHUS-087/CHUS-087_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-010",
+            "fold": 4,
+            "ct": "CHUP-010/CHUP-010_ct.nii.gz",
+            "pt": "CHUP-010/CHUP-010_pt.nii.gz",
+            "seg": "CHUP-010/CHUP-010_gt.nii.gz"
+        },
+        {
+            "id": "MDA-090",
+            "fold": 4,
+            "ct": "MDA-090/MDA-090_ct.nii.gz",
+            "pt": "MDA-090/MDA-090_pt.nii.gz",
+            "seg": "MDA-090/MDA-090_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-046",
+            "fold": 4,
+            "ct": "CHUV-046/CHUV-046_ct.nii.gz",
+            "pt": "CHUV-046/CHUV-046_pt.nii.gz",
+            "seg": "CHUV-046/CHUV-046_gt.nii.gz"
+        },
+        {
+            "id": "MDA-062",
+            "fold": 4,
+            "ct": "MDA-062/MDA-062_ct.nii.gz",
+            "pt": "MDA-062/MDA-062_pt.nii.gz",
+            "seg": "MDA-062/MDA-062_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-030",
+            "fold": 4,
+            "ct": "CHUM-030/CHUM-030_ct.nii.gz",
+            "pt": "CHUM-030/CHUM-030_pt.nii.gz",
+            "seg": "CHUM-030/CHUM-030_gt.nii.gz"
+        },
+        {
+            "id": "HMR-029",
+            "fold": 4,
+            "ct": "HMR-029/HMR-029_ct.nii.gz",
+            "pt": "HMR-029/HMR-029_pt.nii.gz",
+            "seg": "HMR-029/HMR-029_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-031",
+            "fold": 4,
+            "ct": "CHUV-031/CHUV-031_ct.nii.gz",
+            "pt": "CHUV-031/CHUV-031_pt.nii.gz",
+            "seg": "CHUV-031/CHUV-031_gt.nii.gz"
+        },
+        {
+            "id": "MDA-127",
+            "fold": 4,
+            "ct": "MDA-127/MDA-127_ct.nii.gz",
+            "pt": "MDA-127/MDA-127_pt.nii.gz",
+            "seg": "MDA-127/MDA-127_gt.nii.gz"
+        },
+        {
+            "id": "MDA-050",
+            "fold": 4,
+            "ct": "MDA-050/MDA-050_ct.nii.gz",
+            "pt": "MDA-050/MDA-050_pt.nii.gz",
+            "seg": "MDA-050/MDA-050_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-004",
+            "fold": 4,
+            "ct": "CHUS-004/CHUS-004_ct.nii.gz",
+            "pt": "CHUS-004/CHUS-004_pt.nii.gz",
+            "seg": "CHUS-004/CHUS-004_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-017",
+            "fold": 4,
+            "ct": "CHUV-017/CHUV-017_ct.nii.gz",
+            "pt": "CHUV-017/CHUV-017_pt.nii.gz",
+            "seg": "CHUV-017/CHUV-017_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-009",
+            "fold": 4,
+            "ct": "CHUV-009/CHUV-009_ct.nii.gz",
+            "pt": "CHUV-009/CHUV-009_pt.nii.gz",
+            "seg": "CHUV-009/CHUV-009_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-067",
+            "fold": 4,
+            "ct": "HGJ-067/HGJ-067_ct.nii.gz",
+            "pt": "HGJ-067/HGJ-067_pt.nii.gz",
+            "seg": "HGJ-067/HGJ-067_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-005",
+            "fold": 4,
+            "ct": "CHUP-005/CHUP-005_ct.nii.gz",
+            "pt": "CHUP-005/CHUP-005_pt.nii.gz",
+            "seg": "CHUP-005/CHUP-005_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-062",
+            "fold": 4,
+            "ct": "CHUP-062/CHUP-062_ct.nii.gz",
+            "pt": "CHUP-062/CHUP-062_pt.nii.gz",
+            "seg": "CHUP-062/CHUP-062_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-059",
+            "fold": 4,
+            "ct": "CHUM-059/CHUM-059_ct.nii.gz",
+            "pt": "CHUM-059/CHUM-059_pt.nii.gz",
+            "seg": "CHUM-059/CHUM-059_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-007",
+            "fold": 4,
+            "ct": "CHUP-007/CHUP-007_ct.nii.gz",
+            "pt": "CHUP-007/CHUP-007_pt.nii.gz",
+            "seg": "CHUP-007/CHUP-007_gt.nii.gz"
+        },
+        {
+            "id": "MDA-007",
+            "fold": 4,
+            "ct": "MDA-007/MDA-007_ct.nii.gz",
+            "pt": "MDA-007/MDA-007_pt.nii.gz",
+            "seg": "MDA-007/MDA-007_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-065",
+            "fold": 4,
+            "ct": "CHUM-065/CHUM-065_ct.nii.gz",
+            "pt": "CHUM-065/CHUM-065_pt.nii.gz",
+            "seg": "CHUM-065/CHUM-065_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-067",
+            "fold": 4,
+            "ct": "CHUP-067/CHUP-067_ct.nii.gz",
+            "pt": "CHUP-067/CHUP-067_pt.nii.gz",
+            "seg": "CHUP-067/CHUP-067_gt.nii.gz"
+        },
+        {
+            "id": "MDA-169",
+            "fold": 4,
+            "ct": "MDA-169/MDA-169_ct.nii.gz",
+            "pt": "MDA-169/MDA-169_pt.nii.gz",
+            "seg": "MDA-169/MDA-169_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-010",
+            "fold": 4,
+            "ct": "CHUS-010/CHUS-010_ct.nii.gz",
+            "pt": "CHUS-010/CHUS-010_pt.nii.gz",
+            "seg": "CHUS-010/CHUS-010_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-007",
+            "fold": 4,
+            "ct": "HGJ-007/HGJ-007_ct.nii.gz",
+            "pt": "HGJ-007/HGJ-007_pt.nii.gz",
+            "seg": "HGJ-007/HGJ-007_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-017",
+            "fold": 4,
+            "ct": "HGJ-017/HGJ-017_ct.nii.gz",
+            "pt": "HGJ-017/HGJ-017_pt.nii.gz",
+            "seg": "HGJ-017/HGJ-017_gt.nii.gz"
+        },
+        {
+            "id": "HMR-011",
+            "fold": 4,
+            "ct": "HMR-011/HMR-011_ct.nii.gz",
+            "pt": "HMR-011/HMR-011_pt.nii.gz",
+            "seg": "HMR-011/HMR-011_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-048",
+            "fold": 4,
+            "ct": "CHUV-048/CHUV-048_ct.nii.gz",
+            "pt": "CHUV-048/CHUV-048_pt.nii.gz",
+            "seg": "CHUV-048/CHUV-048_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-037",
+            "fold": 4,
+            "ct": "HGJ-037/HGJ-037_ct.nii.gz",
+            "pt": "HGJ-037/HGJ-037_pt.nii.gz",
+            "seg": "HGJ-037/HGJ-037_gt.nii.gz"
+        },
+        {
+            "id": "MDA-115",
+            "fold": 4,
+            "ct": "MDA-115/MDA-115_ct.nii.gz",
+            "pt": "MDA-115/MDA-115_pt.nii.gz",
+            "seg": "MDA-115/MDA-115_gt.nii.gz"
+        },
+        {
+            "id": "MDA-162",
+            "fold": 4,
+            "ct": "MDA-162/MDA-162_ct.nii.gz",
+            "pt": "MDA-162/MDA-162_pt.nii.gz",
+            "seg": "MDA-162/MDA-162_gt.nii.gz"
+        },
+        {
+            "id": "MDA-102",
+            "fold": 4,
+            "ct": "MDA-102/MDA-102_ct.nii.gz",
+            "pt": "MDA-102/MDA-102_pt.nii.gz",
+            "seg": "MDA-102/MDA-102_gt.nii.gz"
+        },
+        {
+            "id": "MDA-021",
+            "fold": 4,
+            "ct": "MDA-021/MDA-021_ct.nii.gz",
+            "pt": "MDA-021/MDA-021_pt.nii.gz",
+            "seg": "MDA-021/MDA-021_gt.nii.gz"
+        },
+        {
+            "id": "MDA-195",
+            "fold": 4,
+            "ct": "MDA-195/MDA-195_ct.nii.gz",
+            "pt": "MDA-195/MDA-195_pt.nii.gz",
+            "seg": "MDA-195/MDA-195_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-013",
+            "fold": 4,
+            "ct": "HGJ-013/HGJ-013_ct.nii.gz",
+            "pt": "HGJ-013/HGJ-013_pt.nii.gz",
+            "seg": "HGJ-013/HGJ-013_gt.nii.gz"
+        },
+        {
+            "id": "MDA-180",
+            "fold": 4,
+            "ct": "MDA-180/MDA-180_ct.nii.gz",
+            "pt": "MDA-180/MDA-180_pt.nii.gz",
+            "seg": "MDA-180/MDA-180_gt.nii.gz"
+        },
+        {
+            "id": "MDA-183",
+            "fold": 4,
+            "ct": "MDA-183/MDA-183_ct.nii.gz",
+            "pt": "MDA-183/MDA-183_pt.nii.gz",
+            "seg": "MDA-183/MDA-183_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-046",
+            "fold": 4,
+            "ct": "HGJ-046/HGJ-046_ct.nii.gz",
+            "pt": "HGJ-046/HGJ-046_pt.nii.gz",
+            "seg": "HGJ-046/HGJ-046_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-032",
+            "fold": 4,
+            "ct": "CHUV-032/CHUV-032_ct.nii.gz",
+            "pt": "CHUV-032/CHUV-032_pt.nii.gz",
+            "seg": "CHUV-032/CHUV-032_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-076",
+            "fold": 4,
+            "ct": "HGJ-076/HGJ-076_ct.nii.gz",
+            "pt": "HGJ-076/HGJ-076_pt.nii.gz",
+            "seg": "HGJ-076/HGJ-076_gt.nii.gz"
+        },
+        {
+            "id": "MDA-067",
+            "fold": 4,
+            "ct": "MDA-067/MDA-067_ct.nii.gz",
+            "pt": "MDA-067/MDA-067_pt.nii.gz",
+            "seg": "MDA-067/MDA-067_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-026",
+            "fold": 4,
+            "ct": "CHUM-026/CHUM-026_ct.nii.gz",
+            "pt": "CHUM-026/CHUM-026_pt.nii.gz",
+            "seg": "CHUM-026/CHUM-026_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-048",
+            "fold": 4,
+            "ct": "HGJ-048/HGJ-048_ct.nii.gz",
+            "pt": "HGJ-048/HGJ-048_pt.nii.gz",
+            "seg": "HGJ-048/HGJ-048_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-043",
+            "fold": 4,
+            "ct": "CHUV-043/CHUV-043_ct.nii.gz",
+            "pt": "CHUV-043/CHUV-043_pt.nii.gz",
+            "seg": "CHUV-043/CHUV-043_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-040",
+            "fold": 4,
+            "ct": "CHUS-040/CHUS-040_ct.nii.gz",
+            "pt": "CHUS-040/CHUS-040_pt.nii.gz",
+            "seg": "CHUS-040/CHUS-040_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-031",
+            "fold": 4,
+            "ct": "CHUS-031/CHUS-031_ct.nii.gz",
+            "pt": "CHUS-031/CHUS-031_pt.nii.gz",
+            "seg": "CHUS-031/CHUS-031_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-038",
+            "fold": 4,
+            "ct": "CHUM-038/CHUM-038_ct.nii.gz",
+            "pt": "CHUM-038/CHUM-038_pt.nii.gz",
+            "seg": "CHUM-038/CHUM-038_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-012",
+            "fold": 4,
+            "ct": "CHUM-012/CHUM-012_ct.nii.gz",
+            "pt": "CHUM-012/CHUM-012_pt.nii.gz",
+            "seg": "CHUM-012/CHUM-012_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-027",
+            "fold": 4,
+            "ct": "CHUS-027/CHUS-027_ct.nii.gz",
+            "pt": "CHUS-027/CHUS-027_pt.nii.gz",
+            "seg": "CHUS-027/CHUS-027_gt.nii.gz"
+        },
+        {
+            "id": "MDA-011",
+            "fold": 4,
+            "ct": "MDA-011/MDA-011_ct.nii.gz",
+            "pt": "MDA-011/MDA-011_pt.nii.gz",
+            "seg": "MDA-011/MDA-011_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-077",
+            "fold": 4,
+            "ct": "HGJ-077/HGJ-077_ct.nii.gz",
+            "pt": "HGJ-077/HGJ-077_pt.nii.gz",
+            "seg": "HGJ-077/HGJ-077_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-070",
+            "fold": 4,
+            "ct": "CHUP-070/CHUP-070_ct.nii.gz",
+            "pt": "CHUP-070/CHUP-070_pt.nii.gz",
+            "seg": "CHUP-070/CHUP-070_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-060",
+            "fold": 4,
+            "ct": "CHUM-060/CHUM-060_ct.nii.gz",
+            "pt": "CHUM-060/CHUM-060_pt.nii.gz",
+            "seg": "CHUM-060/CHUM-060_gt.nii.gz"
+        },
+        {
+            "id": "MDA-096",
+            "fold": 4,
+            "ct": "MDA-096/MDA-096_ct.nii.gz",
+            "pt": "MDA-096/MDA-096_pt.nii.gz",
+            "seg": "MDA-096/MDA-096_gt.nii.gz"
+        },
+        {
+            "id": "MDA-182",
+            "fold": 4,
+            "ct": "MDA-182/MDA-182_ct.nii.gz",
+            "pt": "MDA-182/MDA-182_pt.nii.gz",
+            "seg": "MDA-182/MDA-182_gt.nii.gz"
+        },
+        {
+            "id": "MDA-164",
+            "fold": 4,
+            "ct": "MDA-164/MDA-164_ct.nii.gz",
+            "pt": "MDA-164/MDA-164_pt.nii.gz",
+            "seg": "MDA-164/MDA-164_gt.nii.gz"
+        },
+        {
+            "id": "MDA-077",
+            "fold": 4,
+            "ct": "MDA-077/MDA-077_ct.nii.gz",
+            "pt": "MDA-077/MDA-077_pt.nii.gz",
+            "seg": "MDA-077/MDA-077_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-026",
+            "fold": 4,
+            "ct": "CHUV-026/CHUV-026_ct.nii.gz",
+            "pt": "CHUV-026/CHUV-026_pt.nii.gz",
+            "seg": "CHUV-026/CHUV-026_gt.nii.gz"
+        },
+        {
+            "id": "MDA-085",
+            "fold": 4,
+            "ct": "MDA-085/MDA-085_ct.nii.gz",
+            "pt": "MDA-085/MDA-085_pt.nii.gz",
+            "seg": "MDA-085/MDA-085_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-101",
+            "fold": 4,
+            "ct": "CHUS-101/CHUS-101_ct.nii.gz",
+            "pt": "CHUS-101/CHUS-101_pt.nii.gz",
+            "seg": "CHUS-101/CHUS-101_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-009",
+            "fold": 4,
+            "ct": "CHUP-009/CHUP-009_ct.nii.gz",
+            "pt": "CHUP-009/CHUP-009_pt.nii.gz",
+            "seg": "CHUP-009/CHUP-009_gt.nii.gz"
+        },
+        {
+            "id": "MDA-128",
+            "fold": 4,
+            "ct": "MDA-128/MDA-128_ct.nii.gz",
+            "pt": "MDA-128/MDA-128_pt.nii.gz",
+            "seg": "MDA-128/MDA-128_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-039",
+            "fold": 4,
+            "ct": "CHUV-039/CHUV-039_ct.nii.gz",
+            "pt": "CHUV-039/CHUV-039_pt.nii.gz",
+            "seg": "CHUV-039/CHUV-039_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-077",
+            "fold": 4,
+            "ct": "CHUS-077/CHUS-077_ct.nii.gz",
+            "pt": "CHUS-077/CHUS-077_pt.nii.gz",
+            "seg": "CHUS-077/CHUS-077_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-016",
+            "fold": 4,
+            "ct": "CHUM-016/CHUM-016_ct.nii.gz",
+            "pt": "CHUM-016/CHUM-016_pt.nii.gz",
+            "seg": "CHUM-016/CHUM-016_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-053",
+            "fold": 4,
+            "ct": "CHUS-053/CHUS-053_ct.nii.gz",
+            "pt": "CHUS-053/CHUS-053_pt.nii.gz",
+            "seg": "CHUS-053/CHUS-053_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-014",
+            "fold": 4,
+            "ct": "CHUV-014/CHUV-014_ct.nii.gz",
+            "pt": "CHUV-014/CHUV-014_pt.nii.gz",
+            "seg": "CHUV-014/CHUV-014_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-034",
+            "fold": 4,
+            "ct": "CHUP-034/CHUP-034_ct.nii.gz",
+            "pt": "CHUP-034/CHUP-034_pt.nii.gz",
+            "seg": "CHUP-034/CHUP-034_gt.nii.gz"
+        },
+        {
+            "id": "MDA-094",
+            "fold": 4,
+            "ct": "MDA-094/MDA-094_ct.nii.gz",
+            "pt": "MDA-094/MDA-094_pt.nii.gz",
+            "seg": "MDA-094/MDA-094_gt.nii.gz"
+        },
+        {
+            "id": "MDA-132",
+            "fold": 4,
+            "ct": "MDA-132/MDA-132_ct.nii.gz",
+            "pt": "MDA-132/MDA-132_pt.nii.gz",
+            "seg": "MDA-132/MDA-132_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-010",
+            "fold": 4,
+            "ct": "CHUV-010/CHUV-010_ct.nii.gz",
+            "pt": "CHUV-010/CHUV-010_pt.nii.gz",
+            "seg": "CHUV-010/CHUV-010_gt.nii.gz"
+        },
+        {
+            "id": "MDA-083",
+            "fold": 4,
+            "ct": "MDA-083/MDA-083_ct.nii.gz",
+            "pt": "MDA-083/MDA-083_pt.nii.gz",
+            "seg": "MDA-083/MDA-083_gt.nii.gz"
+        },
+        {
+            "id": "MDA-113",
+            "fold": 4,
+            "ct": "MDA-113/MDA-113_ct.nii.gz",
+            "pt": "MDA-113/MDA-113_pt.nii.gz",
+            "seg": "MDA-113/MDA-113_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-072",
+            "fold": 4,
+            "ct": "HGJ-072/HGJ-072_ct.nii.gz",
+            "pt": "HGJ-072/HGJ-072_pt.nii.gz",
+            "seg": "HGJ-072/HGJ-072_gt.nii.gz"
+        },
+        {
+            "id": "HMR-025",
+            "fold": 4,
+            "ct": "HMR-025/HMR-025_ct.nii.gz",
+            "pt": "HMR-025/HMR-025_pt.nii.gz",
+            "seg": "HMR-025/HMR-025_gt.nii.gz"
+        },
+        {
+            "id": "MDA-098",
+            "fold": 4,
+            "ct": "MDA-098/MDA-098_ct.nii.gz",
+            "pt": "MDA-098/MDA-098_pt.nii.gz",
+            "seg": "MDA-098/MDA-098_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-048",
+            "fold": 4,
+            "ct": "CHUS-048/CHUS-048_ct.nii.gz",
+            "pt": "CHUS-048/CHUS-048_pt.nii.gz",
+            "seg": "CHUS-048/CHUS-048_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-005",
+            "fold": 4,
+            "ct": "CHUV-005/CHUV-005_ct.nii.gz",
+            "pt": "CHUV-005/CHUV-005_pt.nii.gz",
+            "seg": "CHUV-005/CHUV-005_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-035",
+            "fold": 4,
+            "ct": "CHUP-035/CHUP-035_ct.nii.gz",
+            "pt": "CHUP-035/CHUP-035_pt.nii.gz",
+            "seg": "CHUP-035/CHUP-035_gt.nii.gz"
+        },
+        {
+            "id": "MDA-200",
+            "fold": 4,
+            "ct": "MDA-200/MDA-200_ct.nii.gz",
+            "pt": "MDA-200/MDA-200_pt.nii.gz",
+            "seg": "MDA-200/MDA-200_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-019",
+            "fold": 4,
+            "ct": "CHUV-019/CHUV-019_ct.nii.gz",
+            "pt": "CHUV-019/CHUV-019_pt.nii.gz",
+            "seg": "CHUV-019/CHUV-019_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-091",
+            "fold": 4,
+            "ct": "CHUS-091/CHUS-091_ct.nii.gz",
+            "pt": "CHUS-091/CHUS-091_pt.nii.gz",
+            "seg": "CHUS-091/CHUS-091_gt.nii.gz"
+        },
+        {
+            "id": "MDA-030",
+            "fold": 4,
+            "ct": "MDA-030/MDA-030_ct.nii.gz",
+            "pt": "MDA-030/MDA-030_pt.nii.gz",
+            "seg": "MDA-030/MDA-030_gt.nii.gz"
+        },
+        {
+            "id": "MDA-035",
+            "fold": 4,
+            "ct": "MDA-035/MDA-035_ct.nii.gz",
+            "pt": "MDA-035/MDA-035_pt.nii.gz",
+            "seg": "MDA-035/MDA-035_gt.nii.gz"
+        },
+        {
+            "id": "MDA-161",
+            "fold": 4,
+            "ct": "MDA-161/MDA-161_ct.nii.gz",
+            "pt": "MDA-161/MDA-161_pt.nii.gz",
+            "seg": "MDA-161/MDA-161_gt.nii.gz"
+        },
+        {
+            "id": "MDA-018",
+            "fold": 4,
+            "ct": "MDA-018/MDA-018_ct.nii.gz",
+            "pt": "MDA-018/MDA-018_pt.nii.gz",
+            "seg": "MDA-018/MDA-018_gt.nii.gz"
+        },
+        {
+            "id": "MDA-065",
+            "fold": 4,
+            "ct": "MDA-065/MDA-065_ct.nii.gz",
+            "pt": "MDA-065/MDA-065_pt.nii.gz",
+            "seg": "MDA-065/MDA-065_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-022",
+            "fold": 4,
+            "ct": "CHUM-022/CHUM-022_ct.nii.gz",
+            "pt": "CHUM-022/CHUM-022_pt.nii.gz",
+            "seg": "CHUM-022/CHUM-022_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-013",
+            "fold": 4,
+            "ct": "CHUM-013/CHUM-013_ct.nii.gz",
+            "pt": "CHUM-013/CHUM-013_pt.nii.gz",
+            "seg": "CHUM-013/CHUM-013_gt.nii.gz"
+        },
+        {
+            "id": "HMR-016",
+            "fold": 4,
+            "ct": "HMR-016/HMR-016_ct.nii.gz",
+            "pt": "HMR-016/HMR-016_pt.nii.gz",
+            "seg": "HMR-016/HMR-016_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-035",
+            "fold": 4,
+            "ct": "CHUV-035/CHUV-035_ct.nii.gz",
+            "pt": "CHUV-035/CHUV-035_pt.nii.gz",
+            "seg": "CHUV-035/CHUV-035_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-033",
+            "fold": 4,
+            "ct": "CHUP-033/CHUP-033_ct.nii.gz",
+            "pt": "CHUP-033/CHUP-033_pt.nii.gz",
+            "seg": "CHUP-033/CHUP-033_gt.nii.gz"
+        },
+        {
+            "id": "MDA-181",
+            "fold": 4,
+            "ct": "MDA-181/MDA-181_ct.nii.gz",
+            "pt": "MDA-181/MDA-181_pt.nii.gz",
+            "seg": "MDA-181/MDA-181_gt.nii.gz"
+        },
+        {
+            "id": "CHUS-021",
+            "fold": 4,
+            "ct": "CHUS-021/CHUS-021_ct.nii.gz",
+            "pt": "CHUS-021/CHUS-021_pt.nii.gz",
+            "seg": "CHUS-021/CHUS-021_gt.nii.gz"
+        },
+        {
+            "id": "MDA-079",
+            "fold": 4,
+            "ct": "MDA-079/MDA-079_ct.nii.gz",
+            "pt": "MDA-079/MDA-079_pt.nii.gz",
+            "seg": "MDA-079/MDA-079_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-045",
+            "fold": 4,
+            "ct": "CHUM-045/CHUM-045_ct.nii.gz",
+            "pt": "CHUM-045/CHUM-045_pt.nii.gz",
+            "seg": "CHUM-045/CHUM-045_gt.nii.gz"
+        },
+        {
+            "id": "MDA-101",
+            "fold": 4,
+            "ct": "MDA-101/MDA-101_ct.nii.gz",
+            "pt": "MDA-101/MDA-101_pt.nii.gz",
+            "seg": "MDA-101/MDA-101_gt.nii.gz"
+        },
+        {
+            "id": "MDA-168",
+            "fold": 4,
+            "ct": "MDA-168/MDA-168_ct.nii.gz",
+            "pt": "MDA-168/MDA-168_pt.nii.gz",
+            "seg": "MDA-168/MDA-168_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-047",
+            "fold": 4,
+            "ct": "CHUM-047/CHUM-047_ct.nii.gz",
+            "pt": "CHUM-047/CHUM-047_pt.nii.gz",
+            "seg": "CHUM-047/CHUM-047_gt.nii.gz"
+        },
+        {
+            "id": "MDA-012",
+            "fold": 4,
+            "ct": "MDA-012/MDA-012_ct.nii.gz",
+            "pt": "MDA-012/MDA-012_pt.nii.gz",
+            "seg": "MDA-012/MDA-012_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-052",
+            "fold": 4,
+            "ct": "CHUP-052/CHUP-052_ct.nii.gz",
+            "pt": "CHUP-052/CHUP-052_pt.nii.gz",
+            "seg": "CHUP-052/CHUP-052_gt.nii.gz"
+        },
+        {
+            "id": "CHUM-037",
+            "fold": 4,
+            "ct": "CHUM-037/CHUM-037_ct.nii.gz",
+            "pt": "CHUM-037/CHUM-037_pt.nii.gz",
+            "seg": "CHUM-037/CHUM-037_gt.nii.gz"
+        },
+        {
+            "id": "CHUV-024",
+            "fold": 4,
+            "ct": "CHUV-024/CHUV-024_ct.nii.gz",
+            "pt": "CHUV-024/CHUV-024_pt.nii.gz",
+            "seg": "CHUV-024/CHUV-024_gt.nii.gz"
+        },
+        {
+            "id": "MDA-104",
+            "fold": 4,
+            "ct": "MDA-104/MDA-104_ct.nii.gz",
+            "pt": "MDA-104/MDA-104_pt.nii.gz",
+            "seg": "MDA-104/MDA-104_gt.nii.gz"
+        },
+        {
+            "id": "HGJ-053",
+            "fold": 4,
+            "ct": "HGJ-053/HGJ-053_ct.nii.gz",
+            "pt": "HGJ-053/HGJ-053_pt.nii.gz",
+            "seg": "HGJ-053/HGJ-053_gt.nii.gz"
+        },
+        {
+            "id": "CHUP-048",
+            "fold": 4,
+            "ct": "CHUP-048/CHUP-048_ct.nii.gz",
+            "pt": "CHUP-048/CHUP-048_pt.nii.gz",
+            "seg": "CHUP-048/CHUP-048_gt.nii.gz"
+        }
+    ]
+}

@@ -1,0 +1,2100 @@
+{
+    "training": [
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-008/CHUV-008.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-024/MDA-024.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-052/CHUS-052.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-147/MDA-147.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-049/CHUS-049.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-026/CHUS-026.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-028/MDA-028.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-025/HGJ-025.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-023/MDA-023.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-129/MDA-129.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-068/CHUP-068.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-087/HGJ-087.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-078/CHUS-078.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-023/HMR-023.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-049/MDA-049.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-047/CHUS-047.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-121/MDA-121.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-055/HGJ-055.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-106/MDA-106.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-048/MDA-048.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-021/HMR-021.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-032/CHUP-032.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-004/CHUP-004.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-064/CHUS-064.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-030/CHUS-030.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-075/MDA-075.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-054/CHUM-054.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-022/CHUP-022.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-016/CHUS-016.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-112/MDA-112.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-012/CHUP-012.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-061/CHUP-061.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-005/HMR-005.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-034/HGJ-034.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-005/CHUS-005.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-019/CHUP-019.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-014/CHUM-014.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-188/MDA-188.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-053/MDA-053.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-032/CHUM-032.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-007/CHUV-007.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-008/CHUS-008.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-122/MDA-122.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-021/CHUV-021.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-018/CHUP-018.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-092/HGJ-092.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-083/HGJ-083.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-150/MDA-150.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-038/CHUV-038.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-001/HMR-001.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-046/CHUP-046.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-028/CHUS-028.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-022/CHUS-022.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-056/CHUM-056.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-029/HGJ-029.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-048/HGJ-048.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-040/CHUS-040.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-091/HGJ-091.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-167/MDA-167.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-187/MDA-187.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-004/HMR-004.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-027/CHUS-027.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-077/HGJ-077.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-012/HMR-012.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-064/CHUP-064.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-089/CHUS-089.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-050/CHUV-050.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-009/CHUP-009.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-128/MDA-128.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-020/HMR-020.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-036/CHUS-036.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-017/MDA-017.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-027/MDA-027.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-038/HGJ-038.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-052/CHUV-052.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-002/CHUP-002.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-185/MDA-185.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-051/CHUS-051.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-041/CHUM-041.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-116/MDA-116.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-010/CHUV-010.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-018/CHUM-018.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-081/MDA-081.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-098/MDA-098.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-117/MDA-117.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-030/CHUV-030.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-072/MDA-072.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-039/CHUS-039.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-063/CHUP-063.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-051/CHUM-051.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-033/CHUP-033.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-021/CHUS-021.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-029/CHUV-029.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-074/MDA-074.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-153/MDA-153.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-080/CHUS-080.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-025/CHUP-025.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-012/MDA-012.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-090/HGJ-090.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-024/CHUV-024.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-091/MDA-091.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-073/CHUP-073.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-045/CHUV-045.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-108/MDA-108.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-149/MDA-149.pt",
+            "fold": 0
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-002/CHUV-002.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-146/MDA-146.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-081/CHUS-081.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-199/MDA-199.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-028/CHUP-028.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-043/CHUS-043.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-059/MDA-059.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-086/HGJ-086.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-175/MDA-175.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-051/MDA-051.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-192/MDA-192.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-027/CHUV-027.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-004/CHUV-004.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-024/HMR-024.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-058/MDA-058.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-165/MDA-165.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-119/MDA-119.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-042/CHUP-042.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-078/MDA-078.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-080/HGJ-080.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-075/CHUP-075.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-069/CHUS-069.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-006/MDA-006.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-173/MDA-173.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-089/MDA-089.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-174/MDA-174.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-006/CHUV-006.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-001/CHUP-001.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-151/MDA-151.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-018/CHUV-018.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-036/CHUM-036.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-189/MDA-189.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-025/CHUV-025.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-058/CHUP-058.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-050/HGJ-050.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-037/CHUV-037.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-011/CHUM-011.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-090/CHUS-090.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-076/CHUS-076.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-028/HGJ-028.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-038/CHUP-038.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-007/CHUS-007.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-040/CHUM-040.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-042/MDA-042.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-074/CHUP-074.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-016/HGJ-016.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-126/MDA-126.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-032/CHUV-032.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-135/MDA-135.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-067/MDA-067.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-010/MDA-010.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-073/HGJ-073.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-074/HGJ-074.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-043/CHUV-043.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-144/MDA-144.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-033/MDA-033.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-072/CHUP-072.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-023/CHUP-023.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-046/CHUM-046.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-044/CHUM-044.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-060/CHUP-060.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-020/MDA-020.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-085/MDA-085.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-057/HGJ-057.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-101/CHUS-101.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-045/CHUS-045.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-071/HGJ-071.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-131/MDA-131.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-016/CHUM-016.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-053/CHUS-053.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-132/MDA-132.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-086/CHUS-086.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-019/MDA-019.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-043/MDA-043.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-072/HGJ-072.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-025/HMR-025.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-100/MDA-100.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-159/MDA-159.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-001/MDA-001.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-024/CHUM-024.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-048/CHUS-048.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-005/CHUV-005.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-026/MDA-026.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-096/CHUS-096.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-035/CHUP-035.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-043/HGJ-043.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-061/CHUM-061.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-044/CHUV-044.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-098/CHUS-098.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-022/CHUM-022.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-019/CHUS-019.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-109/MDA-109.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-016/HMR-016.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-019/CHUM-019.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-074/CHUS-074.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-176/MDA-176.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-171/MDA-171.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-022/CHUV-022.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-168/MDA-168.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-088/MDA-088.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-015/CHUP-015.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-015/CHUM-015.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-006/CHUP-006.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-104/MDA-104.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-163/MDA-163.pt",
+            "fold": 1
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-082/HGJ-082.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-011/CHUV-011.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-123/MDA-123.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-052/MDA-052.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-070/HGJ-070.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-003/CHUV-003.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-065/CHUP-065.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-085/HGJ-085.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-198/MDA-198.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-013/CHUP-013.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-034/HMR-034.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-049/CHUP-049.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-089/HGJ-089.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-103/MDA-103.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-160/MDA-160.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-039/CHUM-039.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-020/CHUP-020.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-030/HMR-030.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-130/MDA-130.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-088/HGJ-088.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-179/MDA-179.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-042/CHUS-042.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-105/MDA-105.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-095/MDA-095.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-017/CHUM-017.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-051/CHUV-051.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-058/CHUS-058.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-036/MDA-036.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-037/MDA-037.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-166/MDA-166.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-082/MDA-082.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-032/MDA-032.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-032/HGJ-032.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-073/CHUS-073.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-055/CHUS-055.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-015/CHUV-015.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-137/MDA-137.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-138/MDA-138.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-139/MDA-139.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-057/CHUM-057.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-027/CHUP-027.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-066/CHUS-066.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-045/MDA-045.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-036/CHUP-036.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-177/MDA-177.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-015/CHUS-015.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-030/CHUP-030.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-031/HGJ-031.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-012/CHUM-012.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-047/CHUV-047.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-143/MDA-143.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-060/CHUM-060.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-182/MDA-182.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-066/HGJ-066.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-039/CHUV-039.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-077/CHUS-077.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-029/CHUP-029.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-037/CHUP-037.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-014/CHUV-014.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-034/CHUP-034.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-094/MDA-094.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-069/HGJ-069.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-071/MDA-071.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-201/MDA-201.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-050/CHUM-050.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-017/CHUP-017.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-100/CHUS-100.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-099/MDA-099.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-064/CHUM-064.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-083/MDA-083.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-113/MDA-113.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-110/MDA-110.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-013/CHUV-013.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-061/MDA-061.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-019/CHUV-019.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-091/CHUS-091.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-030/MDA-030.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-035/MDA-035.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-069/CHUP-069.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-031/MDA-031.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-161/MDA-161.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-156/MDA-156.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-050/CHUS-050.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-033/CHUS-033.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-056/MDA-056.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-013/CHUM-013.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-038/CHUS-038.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-114/MDA-114.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-035/CHUM-035.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-035/CHUV-035.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-181/MDA-181.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-065/HGJ-065.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-184/MDA-184.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-015/MDA-015.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-101/MDA-101.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-142/MDA-142.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-194/MDA-194.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-063/CHUM-063.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-013/MDA-013.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-066/MDA-066.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-052/CHUP-052.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-013/CHUS-013.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-170/MDA-170.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-016/MDA-016.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-033/CHUM-033.pt",
+            "fold": 2
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-034/MDA-034.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-007/CHUM-007.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-050/CHUP-050.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-023/CHUM-023.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-043/CHUM-043.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-060/CHUS-060.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-020/CHUV-020.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-001/CHUV-001.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-001/CHUM-001.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-076/MDA-076.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-028/CHUV-028.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-027/CHUM-027.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-071/CHUP-071.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-107/MDA-107.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-044/MDA-044.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-055/MDA-055.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-057/MDA-057.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-067/CHUS-067.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-083/CHUS-083.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-036/CHUV-036.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-020/CHUS-020.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-197/MDA-197.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-003/CHUP-003.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-094/CHUS-094.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-172/MDA-172.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-154/MDA-154.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-057/CHUP-057.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-016/CHUP-016.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-062/HGJ-062.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-048/CHUM-048.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-042/CHUM-042.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-008/CHUP-008.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-041/CHUP-041.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-097/MDA-097.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-124/MDA-124.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-010/HGJ-010.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-097/CHUS-097.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-148/MDA-148.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-029/MDA-029.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-003/MDA-003.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-060/MDA-060.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-025/MDA-025.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-183/MDA-183.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-028/HMR-028.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-076/HGJ-076.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-066/CHUP-066.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-026/CHUM-026.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-003/CHUS-003.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-118/MDA-118.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-026/HGJ-026.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-034/CHUV-034.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-039/CHUP-039.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-031/CHUS-031.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-088/CHUS-088.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-078/HGJ-078.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-157/MDA-157.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-026/CHUP-026.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-040/CHUV-040.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-016/CHUV-016.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-014/MDA-014.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-186/MDA-186.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-077/MDA-077.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-006/CHUM-006.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-085/CHUS-085.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-004/MDA-004.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-052/HGJ-052.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-055/CHUM-055.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-005/MDA-005.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-047/MDA-047.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-041/CHUV-041.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-013/HMR-013.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-021/CHUM-021.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-058/CHUM-058.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-041/CHUS-041.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-014/HMR-014.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-038/MDA-038.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-009/CHUS-009.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-023/CHUV-023.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-196/MDA-196.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-200/MDA-200.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-035/CHUS-035.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-002/CHUM-002.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-036/HGJ-036.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-145/MDA-145.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-064/MDA-064.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-079/MDA-079.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-191/MDA-191.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-040/CHUP-040.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-058/HGJ-058.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-018/HGJ-018.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-070/MDA-070.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-039/HGJ-039.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-047/CHUM-047.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-136/MDA-136.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-037/CHUM-037.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-006/CHUS-006.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-008/CHUM-008.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-054/CHUP-054.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-047/CHUP-047.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-041/MDA-041.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-063/MDA-063.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-046/MDA-046.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-043/CHUP-043.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-080/MDA-080.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-087/CHUS-087.pt",
+            "fold": 3
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-010/CHUP-010.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-090/MDA-090.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-046/CHUV-046.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-062/MDA-062.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-030/CHUM-030.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-029/HMR-029.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-031/CHUV-031.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-127/MDA-127.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-050/MDA-050.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-004/CHUS-004.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-017/CHUV-017.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-009/CHUV-009.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-067/HGJ-067.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-005/CHUP-005.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-062/CHUP-062.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-059/CHUM-059.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-007/CHUP-007.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-007/MDA-007.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-065/CHUM-065.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-067/CHUP-067.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-169/MDA-169.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-010/CHUS-010.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-007/HGJ-007.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-017/HGJ-017.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-011/HMR-011.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-048/CHUV-048.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-037/HGJ-037.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-115/MDA-115.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-162/MDA-162.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-102/MDA-102.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-021/MDA-021.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-195/MDA-195.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-013/HGJ-013.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-180/MDA-180.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-046/HGJ-046.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-056/CHUP-056.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-068/MDA-068.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-015/HGJ-015.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-193/MDA-193.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-008/HGJ-008.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-056/CHUS-056.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-054/MDA-054.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-033/CHUV-033.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-038/CHUM-038.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-030/HGJ-030.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-095/CHUS-095.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-011/MDA-011.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-051/CHUP-051.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-070/CHUP-070.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-092/MDA-092.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-096/MDA-096.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-152/MDA-152.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-164/MDA-164.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-040/MDA-040.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-026/CHUV-026.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-111/MDA-111.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-125/MDA-125.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-155/MDA-155.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-000/CHUP-000.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-134/MDA-134.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-190/MDA-190.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-084/MDA-084.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-055/CHUP-055.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-141/MDA-141.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-133/MDA-133.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-061/CHUS-061.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-044/CHUP-044.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-035/HGJ-035.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-053/CHUP-053.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-010/CHUM-010.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-087/MDA-087.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-046/CHUS-046.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-073/MDA-073.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-042/CHUV-042.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-140/MDA-140.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-049/CHUV-049.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-012/CHUV-012.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HMR-040/HMR-040.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-093/MDA-093.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-053/CHUM-053.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-034/CHUM-034.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-068/CHUS-068.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUV-053/CHUV-053.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-018/MDA-018.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-065/MDA-065.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-039/MDA-039.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-059/CHUP-059.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-069/MDA-069.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-178/MDA-178.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-065/CHUS-065.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-158/MDA-158.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-062/CHUM-062.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-120/MDA-120.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-081/HGJ-081.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-045/CHUM-045.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-029/CHUM-029.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-024/CHUP-024.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-022/MDA-022.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUM-049/CHUM-049.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/MDA-086/MDA-086.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUS-057/CHUS-057.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/HGJ-053/HGJ-053.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-048/CHUP-048.pt",
+            "fold": 4
+        },
+        {
+            "path": "/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/CHUP-011/CHUP-011.pt",
+            "fold": 4
+        }
+    ]
+}

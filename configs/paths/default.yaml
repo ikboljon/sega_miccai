@@ -5,10 +5,11 @@ root_dir: ${oc.env:PROJECT_ROOT}
 
 # path to data directory
 # data_dir: '/home/ikboljonsobirov/sega/segaorta_resampled/'
-data_dir: '/home/ikboljonsobirov/sega/segaorta_tensor/'
+data_dir: '/share/nvmedata/ikboljonsobirov/fusion_vit/hecktor2022_torch/'
 # data_dir: '/home/ikboljonsobirov/sega/segaorta_resized/'
 # json_dir: '/home/ikboljonsobirov/sega/train_json_orig_nrrd.json'
-json_dir: '/home/ikboljonsobirov/sega/train_json_orig.json'
+# json_dir: '/home/ikboljonsobirov/hecktor/fusion_vit/fusion_vit_project/files/train_json_new.json'
+json_dir: '/home/ikboljonsobirov/hecktor/fusion_vit/fusion_vit_project/files/train_json_torch.json'
 
 # path to logging directory
 log_dir: ${paths.root_dir}/logs/

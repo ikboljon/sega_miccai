@@ -4,7 +4,7 @@ from sklearn.model_selection import KFold, StratifiedKFold
 import torch
 from lightning import LightningDataModule
 from torch.utils.data import ConcatDataset, DataLoader, Dataset, random_split, Subset
-from src.data.components.sega_dataset import SegaDataset
+from src.data.components.fusion_dataset import SegaDataset
 from src.data.augmentations import *
 # from src.datamodules.transforms import *
 

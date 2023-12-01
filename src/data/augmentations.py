@@ -22,6 +22,7 @@ from monai.utils import (
 )
 from typing import Any, List, Optional, Sequence, Tuple, Union
 from monai.utils.type_conversion import convert_data_type, convert_to_dst_type
+import SimpleITK as sitk
 
 class Compose:
     def __init__(self, transforms=None):
@@ -35,7 +36,7 @@ class Compose:
 
 
 class LoadImagedMonai:
-    def __init__(self, keys=["image", "label"], ensure_channel_first = True):
+    def __init__(self, keys=["image", "image2", "label"], ensure_channel_first = True):
         self.keys=keys
         self.chnl_first=ensure_channel_first
         # self.path_to_data_dir=path_to_data_dir
@@ -47,17 +48,30 @@ class LoadImagedMonai:
             sample = dict()
             # sample['id']  = 
             # paths = self.get_patient_files(path_to_data_dir)
-            img_data = self.read_torch_file(path_to_data_dir[self.keys[0]]).float()
-            mask_data = self.read_torch_file(path_to_data_dir[self.keys[1]]).float()
+            ct_data = self.read_nii_file(path_to_data_dir[self.keys[0]])
+            pt_data = self.read_nii_file(path_to_data_dir[self.keys[1]])
+            gt_data = self.read_nii_file(path_to_data_dir[self.keys[2]])
+            
+            # gt_tum = gt_data.copy()
+            # gt_tum[gt_tum == 2] = 0
 
-            sample['image'] = img_data
-            sample['label'] = mask_data
-            sample['id'] = path_to_data_dir['id'].split('/')[-1]
+            # gt_nod = gt_data.copy()
+            # gt_nod[gt_nod == 1] = 0
+            # # gt_nod[gt_nod == 2] = 1
+
+            # gt_new = np.stack([gt_nod, gt_tum], axis=0)
+            
+            ct_data = torch.from_numpy(ct_data).float().unsqueeze(0)
+            pt_data = torch.from_numpy(pt_data).float().unsqueeze(0)
+            gt_data = torch.from_numpy(gt_data).float().unsqueeze(0)
+            
+            sample['image'] = torch.concat([ct_data, pt_data], dim=0)
+            sample['label'] = gt_data
             sample['fold'] = path_to_data_dir['fold']
+            sample['id'] = path_to_data_dir['id']
 
             return sample
-            # for p in paths:
-            #     img_data = self.read_torch_file(p)
+
 
     
     @staticmethod
@@ -70,15 +84,22 @@ class LoadImagedMonai:
         paths = []
 
         for p in patients:
-            path_to_ct = path_to_imgs / p / (p + '_ct.pt')
-            path_to_gt = path_to_imgs / p / (p + '_gt.pt')
+            path_to_ct = path_to_imgs / p / (p + '_ct.nii.gz')
+            path_to_pt = path_to_imgs / p / (p + '_pt.nii.gz')
+            path_to_gt = path_to_imgs / p / (p + '_gt.nii.gz')
 
-            paths.append((path_to_ct, path_to_gt))
+            paths.append((path_to_ct, path_to_pt, path_to_gt))
         return paths
             
     @staticmethod
     def read_torch_file(path):
         img = torch.load(path)
+
+        return img
+    
+    @staticmethod
+    def read_nii_file(path):
+        img = sitk.GetArrayFromImage(sitk.ReadImage(path))
 
         return img
 

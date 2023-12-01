@@ -1,6 +1,0 @@
-_target_: src.models.sega_module_monai.SegaModule
-
-model: "segresnet"
-lr : 1e-3
-weight_decay: 1e-5
-roi: ${data.roi}

@@ -1,0 +1,10 @@
+_target_: src.models.fusion_module_monai.FusionModule
+
+model: "segresnet"
+lr :  2e-4
+weight_decay: 1e-5
+roi: ${data.roi}
+sw_batch_size: ${data.sw_batch_size}
+batch_size: ${data.batch_size}
+max_epochs: ${trainer.max_epochs}
+infer_overlap: 0.5

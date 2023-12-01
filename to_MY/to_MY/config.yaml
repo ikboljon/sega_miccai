@@ -1,0 +1,18 @@
+# paths
+path_to_data: '/home/ikboljonsobirov/hecktor/fusion_vit/fusion_vit_project/to_MY/to_MY/data/'
+path_to_json: '/home/ikboljonsobirov/hecktor/fusion_vit/fusion_vit_project/to_MY/to_MY/train_json.json'
+path_to_save: '/home/ikboljonsobirov/hecktor/fusion_vit/fusion_vit_project/to_MY/to_MY/inference/'
+path_to_chkpt: '/home/ikboljonsobirov/hecktor/fusion_vit/fusion_vit_project/logs/train/runs/2023-10-27_12-13-58/checkpoints/epoch_076.ckpt'
+
+# model params
+in_channels: 2 
+out_channels: 3 
+feature_size: 32
+
+
+# hyperparams for inference
+batch_size: 1
+sw_batch_size: 8
+fold: 0 # 0,1,2,3,4
+infer_overlap: 0.5
+roi: 96
